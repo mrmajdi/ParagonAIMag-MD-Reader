@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-03T10:33:27.459Z",
+  "updatedAt": "2026-11-03T19:30:04.334Z",
   "items": [
+    {
+      "id": "redcircle-e4815b47-d667-42c7-b16c-0ac8b2054943",
+      "type": "podcast",
+      "title": "AI vs Machine Learning vs Deep Learning — Four Words, One Test",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/980038e6-e93a-4193-998c-c3ecd07121b0",
+      "publishedAt": "2026-11-03T16:43:11.000Z",
+      "summary": "Paragon AI MAG Follow Paragon AI MAG so you never miss an episode. AI, machine learning, deep learning, generative AI — four words everyone mixes up, and only one creates anything new. In…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/3/16/861ee826-f302-4c95-857f-92a9822cbd58_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/980038e6-e93a-4193-998c-c3ecd07121b0/stream.mp3",
+      "duration": "3111"
+    },
+    {
+      "id": "youtube-Z585b1EtUPo",
+      "type": "video",
+      "title": "AI vs Machine Learning vs Deep Learning — Only One Creates",
+      "url": "https://www.youtube.com/shorts/Z585b1EtUPo",
+      "publishedAt": "2026-11-03T12:19:06.000Z",
+      "summary": "Only one of these four words actually creates anything new. Watch the full Paragon AI MAG video here: https://youtu.be/ngM08w8ZfLg AI vs machine learning vs deep learning vs generative AI —…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/Z585b1EtUPo/hqdefault.jpg",
+      "videoId": "Z585b1EtUPo"
+    },
+    {
+      "id": "youtube-ngM08w8ZfLg",
+      "type": "video",
+      "title": "AI vs Machine Learning vs Deep Learning",
+      "url": "https://www.youtube.com/watch?v=ngM08w8ZfLg",
+      "publishedAt": "2026-11-03T12:16:23.000Z",
+      "summary": "AI vs machine learning vs deep learning vs generative AI — four words everyone mixes up, and only one of them actually creates anything new. This is Episode 1 of Paragon AI MAG's series…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/ngM08w8ZfLg/hqdefault.jpg",
+      "videoId": "ngM08w8ZfLg"
+    },
     {
       "id": "redcircle-1c62c16d-6288-4090-b3e0-6812bbd85e01",
       "type": "podcast",
@@ -153,28 +187,6 @@
       "source": "YouTube",
       "image": "https://i2.ytimg.com/vi/-prFYCFad2Y/hqdefault.jpg",
       "videoId": "-prFYCFad2Y"
-    },
-    {
-      "id": "youtube-f9-04mfO8vo",
-      "type": "video",
-      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained | Paragon AI MAG",
-      "url": "https://www.youtube.com/watch?v=f9-04mfO8vo",
-      "publishedAt": "2026-10-31T13:57:04.000Z",
-      "summary": "always-on AI agent — in five weeks, the world's biggest AI labs all shipped the same idea: an AI that does not wait for your prompt. OpenAI's Dots (29 September 2026), Anthropic's Claude…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/f9-04mfO8vo/hqdefault.jpg",
-      "videoId": "f9-04mfO8vo"
-    },
-    {
-      "id": "youtube-BefDgo9TEVg",
-      "type": "video",
-      "title": "AI Found the KEYS to Millions of Websites 🔑 | Paragon AI MAG",
-      "url": "https://www.youtube.com/shorts/BefDgo9TEVg",
-      "publishedAt": "2026-10-30T14:47:15.000Z",
-      "summary": "AI just found the keys to millions of websites — including ones you use every day. Full video on Paragon AI MAG YouTube: https://www.youtube.com/watch?v=hUg3-eb-A3A Follow Paragon AI MAG…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/BefDgo9TEVg/hqdefault.jpg",
-      "videoId": "BefDgo9TEVg"
     },
     {
       "id": "redcircle-655ec5bf-4197-4728-8ce3-62b4e3ba7166",
