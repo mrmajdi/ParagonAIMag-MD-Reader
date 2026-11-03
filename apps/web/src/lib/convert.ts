@@ -55,6 +55,8 @@ export async function exportXlsx(article: HTMLElement, title: string): Promise<v
   const workbook = XLSX.utils.book_new();
   tables.forEach((rows, index) => {
     const sheet = XLSX.utils.aoa_to_sheet(rows);
+    // Excel renders the sheet right-to-left, matching the document direction.
+    sheet['!views'] = [{ RTL: true }];
     XLSX.utils.book_append_sheet(workbook, sheet, `Table ${index + 1}`.slice(0, 31));
   });
   XLSX.writeFile(workbook, `${baseName(title)}.xlsx`);
@@ -91,10 +93,15 @@ function buildSlides(article: HTMLElement): SlideData[] {
   return slides.length > 0 ? slides : [{ title: 'Document', body: [] }];
 }
 
-export async function exportPptx(article: HTMLElement, title: string): Promise<void> {
+export async function exportPptx(
+  article: HTMLElement,
+  title: string,
+  direction: 'rtl' | 'ltr',
+): Promise<void> {
   const PptxGenJS = (await import('pptxgenjs')).default;
   const pptx = new PptxGenJS();
   pptx.layout = 'LAYOUT_WIDE';
+  pptx.rtlMode = direction === 'rtl';
   pptx.author = 'Paragon AI MAG';
   pptx.subject = title;
   pptx.title = title;
@@ -112,6 +119,7 @@ export async function exportPptx(article: HTMLElement, title: string): Promise<v
       bold: true,
       color: '15211F',
       fontFace: 'Arial',
+      rtlMode: direction === 'rtl',
     });
     slide.addShape(pptx.ShapeType.rect, {
       x: 0.6,
@@ -133,6 +141,7 @@ export async function exportPptx(article: HTMLElement, title: string): Promise<v
         bullet: { indent: 16 },
         fontFace: 'Arial',
         valign: 'top',
+        rtlMode: direction === 'rtl',
       });
     }
     slide.addText('Paragon AI MAG · MD Reader', {
@@ -175,6 +184,7 @@ export async function exportDocx(
   } = docx;
 
   const alignment = direction === 'rtl' ? AlignmentType.RIGHT : AlignmentType.LEFT;
+  const bidirectional = direction === 'rtl';
   const blocks: Array<InstanceType<typeof Paragraph> | InstanceType<typeof Table>> = [];
 
   const inlineRuns = (node: Node, style: { bold?: boolean; italics?: boolean; code?: boolean } = {}): InstanceType<typeof TextRun>[] => {
@@ -188,6 +198,7 @@ export async function exportDocx(
           italics: style.italics,
           font: style.code ? 'Courier New' : undefined,
           size: style.code ? 18 : undefined,
+          rightToLeft: style.code ? false : bidirectional,
         }),
       ];
     }
@@ -215,17 +226,24 @@ export async function exportDocx(
               : level === 4
                 ? HeadingLevel.HEADING_4
                 : HeadingLevel.HEADING_5;
-      blocks.push(new Paragraph({ text: stripInline(child), heading, alignment }));
+      blocks.push(
+        new Paragraph({ text: stripInline(child), heading, alignment, bidirectional }),
+      );
       continue;
     }
 
-    if (child.tagName === 'TABLE') {
-      const rows = Array.from(child.querySelectorAll('tr')).map((row) => {
+    const table = child.matches('.md-table-wrap')
+      ? child.querySelector('table')
+      : child.tagName === 'TABLE'
+        ? child
+        : null;
+    if (table) {
+      const rows = Array.from(table.querySelectorAll('tr')).map((row) => {
         const cells = Array.from(row.querySelectorAll('th,td')).map(
           (cell) =>
             new TableCell({
               width: { size: 100 / Math.max(1, row.querySelectorAll('th,td').length), type: WidthType.PERCENTAGE },
-              children: [new Paragraph({ children: inlineRuns(cell), alignment })],
+              children: [new Paragraph({ children: inlineRuns(cell), alignment, bidirectional })],
             }),
         );
         return new TableRow({ children: cells });
@@ -243,6 +261,7 @@ export async function exportDocx(
           children: [new TextRun({ text: lines.join('\n'), font: 'Courier New', size: 18 })],
           shading: { fill: 'F3F3F3' },
           alignment: AlignmentType.LEFT,
+          bidirectional: false,
         }),
       );
       continue;
@@ -256,6 +275,7 @@ export async function exportDocx(
             bullet: child.tagName === 'UL' ? { level: 0 } : undefined,
             numbering: child.tagName === 'OL' ? { reference: 'default-numbering', level: 0 } : undefined,
             alignment,
+            bidirectional,
           }),
         );
       }
@@ -268,6 +288,7 @@ export async function exportDocx(
           children: inlineRuns(child, { italics: true }),
           indent: { left: 360, right: direction === 'rtl' ? 360 : undefined },
           alignment,
+          bidirectional,
         }),
       );
       continue;
@@ -284,12 +305,14 @@ export async function exportDocx(
     }
 
     if (child.tagName === 'DL') {
-      blocks.push(new Paragraph({ children: inlineRuns(child), alignment }));
+      blocks.push(new Paragraph({ children: inlineRuns(child), alignment, bidirectional }));
       continue;
     }
 
     const text = stripInline(child);
-    if (text) blocks.push(new Paragraph({ children: inlineRuns(child), alignment }));
+    if (text) {
+      blocks.push(new Paragraph({ children: inlineRuns(child), alignment, bidirectional }));
+    }
   }
 
   const document = new Document({

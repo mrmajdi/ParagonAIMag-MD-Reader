@@ -30,9 +30,11 @@
     "build:chrome": "npm run build --workspace paragon-reader-chrome",
     "typecheck": "npm run typecheck --workspaces --if-present",
     "test": "npm run test --workspaces --if-present",
+    "test:web": "playwright test",
     "clean": "rm -rf packages/*/dist apps/*/dist extensions/*/dist extensions/*/web extensions/*/app"
   },
   "devDependencies": {
+    "@playwright/test": "^1.64.1",
     "@types/node": "^24.0.0",
     "jsdom": "^26.1.0",
     "typescript": "^5.9.3",

@@ -488,7 +488,7 @@ export default function App() {
         } else if (format === 'docx') {
           await exportDocx(article, result.title, result.direction);
         } else if (format === 'pptx') {
-          await exportPptx(article, result.title);
+          await exportPptx(article, result.title, result.direction);
         } else if (format === 'xlsx') {
           await exportXlsx(article, result.title);
         }
