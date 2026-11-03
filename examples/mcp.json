@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paragon-reader": {
+      "command": "node",
+      "args": ["/ABSOLUTE/PATH/TO/ParagonAIMag-MD-Reader/packages/mcp/bin/paragon-mcp.js"]
+    }
+  }
+}

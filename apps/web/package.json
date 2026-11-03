@@ -1,0 +1,33 @@
+{
+  "name": "@paragon-ai-mag/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node ../../scripts/update-feed.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/vazirmatn": "^5.2.5",
+    "@paragon-ai-mag/core": "0.1.0",
+    "docx": "^9.5.1",
+    "katex": "^0.16.22",
+    "mermaid": "^11.6.0",
+    "minisearch": "^7.1.2",
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.0",
+    "vite-plugin-pwa": "^1.0.0"
+  }
+}

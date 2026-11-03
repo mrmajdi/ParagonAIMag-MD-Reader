@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "types": ["node"],
+    "paths": {
+      "@paragon-ai-mag/server": ["../server/src/index.ts"]
+    }
+  },
+  "include": ["src"]
+}

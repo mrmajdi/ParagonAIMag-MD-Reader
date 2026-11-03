@@ -1,0 +1,23 @@
+{
+  "name": "@paragon-ai-mag/mcp",
+  "version": "0.1.0",
+  "description": "MCP server that lets AI agents open, outline and list Markdown files with Paragon Reader.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "paragon-mcp": "./bin/paragon-mcp.js"
+  },
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  }
+}

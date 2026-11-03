@@ -1,0 +1,41 @@
+{
+  "name": "paragon-ai-mag-md-reader",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Paragon Reader — a local-first, multilingual Markdown reader for the AI era, by Paragon AI MAG.",
+  "license": "MIT",
+  "homepage": "https://github.com/mrmajdi/ParagonAIMag-MD-Reader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmajdi/ParagonAIMag-MD-Reader.git"
+  },
+  "workspaces": [
+    "packages/*",
+    "apps/*",
+    "extensions/*"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "npm run dev --workspace @paragon-ai-mag/web",
+    "feed": "node scripts/update-feed.mjs",
+    "build": "npm run build:core && npm run build:web && npm run build:server && npm run build:cli && npm run build:mcp && npm run build:extension && npm run build:chrome",
+    "build:core": "npm run build --workspace @paragon-ai-mag/core",
+    "build:web": "npm run build --workspace @paragon-ai-mag/web",
+    "build:server": "npm run build --workspace @paragon-ai-mag/server",
+    "build:cli": "npm run build --workspace paragon-reader",
+    "build:mcp": "npm run build --workspace @paragon-ai-mag/mcp",
+    "build:extension": "npm run build --workspace paragon-reader-vscode",
+    "build:chrome": "npm run build --workspace paragon-reader-chrome",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "clean": "rm -rf packages/*/dist apps/*/dist extensions/*/dist extensions/*/web extensions/*/app"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "jsdom": "^26.1.0",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}

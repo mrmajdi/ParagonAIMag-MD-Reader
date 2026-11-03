@@ -1,0 +1,47 @@
+{
+  "name": "@paragon-ai-mag/core",
+  "version": "0.1.0",
+  "description": "The Markdown rendering engine behind Paragon Reader: GFM, RTL, math, diagrams and sanitisation.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --clean",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@vscode/markdown-it-katex": "^1.1.2",
+    "dompurify": "^3.2.6",
+    "github-slugger": "^2.0.0",
+    "highlight.js": "^11.11.1",
+    "js-yaml": "^4.1.0",
+    "katex": "^0.16.22",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-deflist": "^3.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0",
+    "markdown-it-task-lists": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/markdown-it": "^14.1.2",
+    "jsdom": "^26.1.0",
+    "tsup": "^8.5.0",
+    "vitest": "^3.2.4"
+  }
+}

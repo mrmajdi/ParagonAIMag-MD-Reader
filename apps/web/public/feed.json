@@ -1,0 +1,244 @@
+{
+  "updatedAt": "2026-11-03T08:41:19.720Z",
+  "items": [
+    {
+      "id": "redcircle-1c62c16d-6288-4090-b3e0-6812bbd85e01",
+      "type": "podcast",
+      "title": "AI Robot Boxers Learn by Falling",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/f2222807-7416-4d73-9b54-d97185a9c5e4",
+      "publishedAt": "2026-11-03T05:11:35.000Z",
+      "summary": "A robot boxer doesn't win by never falling. It wins by falling better. At the first World Humanoid Robot Games in Beijing, a Unitree G1 took a real punch, hit the canvas — and used the fall…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/3/5/0f366793-a3e6-407f-96b2-4c156d6ff9db_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/f2222807-7416-4d73-9b54-d97185a9c5e4/stream.mp3",
+      "duration": "3505"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
+      "type": "article",
+      "title": "The Robot Got Knocked Down — and That Was the Lesson",
+      "url": "https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
+      "publishedAt": "2026-11-03T04:31:36.000Z",
+      "summary": "The bell barely finishes ringing when the robot goes down. One clean punch, and a humanoid machine is flat on the canvas in front of a live crowd in Beijing. For a split second it looks…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DvQNj9oM6sc"
+    },
+    {
+      "id": "youtube-CtP54wB4FHg",
+      "type": "video",
+      "title": "It Fell. Then It LEARNED. 🤯",
+      "url": "https://www.youtube.com/shorts/CtP54wB4FHg",
+      "publishedAt": "2026-11-02T20:40:32.000Z",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/CtP54wB4FHg/hqdefault.jpg",
+      "videoId": "CtP54wB4FHg"
+    },
+    {
+      "id": "youtube-DvQNj9oM6sc",
+      "type": "video",
+      "title": "AI Robot Boxing Is Real",
+      "url": "https://www.youtube.com/watch?v=DvQNj9oM6sc",
+      "publishedAt": "2026-11-02T20:38:04.000Z",
+      "summary": "The robot hit the canvas — and in that exact split second, it learned how to fight. At the first-ever World Humanoid Robot Games in Beijing (August 2025), two Unitree G1 robots stepped into…",
+      "source": "YouTube",
+      "image": "https://i1.ytimg.com/vi/DvQNj9oM6sc/hqdefault.jpg",
+      "videoId": "DvQNj9oM6sc"
+    },
+    {
+      "id": "redcircle-fc212180-58d1-4651-84b0-3b9c3d6734ba",
+      "type": "podcast",
+      "title": "Why ChatGPT Makes Things Up — and the Fix Nobody Told You",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/235e209b-4c2e-484c-9535-3499028cbcde",
+      "publishedAt": "2026-11-02T12:34:54.000Z",
+      "summary": "Paragon AI MAG goes deep on why ChatGPT makes things up: next-word prediction, the Mata v. Avianca $5,000 case, how retrieval-augmented generation works, where it still fails, and the…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/2/12/69b79a27-231b-4bd5-b7c6-b7f2d776851d_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/235e209b-4c2e-484c-9535-3499028cbcde/stream.mp3",
+      "duration": "1561"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/why-chatgpt-makes-things-up-and-the",
+      "type": "article",
+      "title": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You",
+      "url": "https://paragonaimag.substack.com/p/why-chatgpt-makes-things-up-and-the",
+      "publishedAt": "2026-11-02T12:20:43.000Z",
+      "summary": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You, from Paragon AI MAG. ChatGPT invented six court cases that never existed — and real lawyers filed them in a real court — and got…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/tI_02Sl3gHM"
+    },
+    {
+      "id": "youtube-_xQfYjLgT6I",
+      "type": "video",
+      "title": "IT INVENTED COURT CASES | Paragon AI MAG",
+      "url": "https://www.youtube.com/shorts/_xQfYjLgT6I",
+      "publishedAt": "2026-11-02T12:16:50.000Z",
+      "summary": "ChatGPT invented 6 court cases that never existed. Real lawyers filed them — and got fined $5,000. The judge's point: the fine was for unchecked output, not for using AI. Full video on…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/_xQfYjLgT6I/hqdefault.jpg",
+      "videoId": "_xQfYjLgT6I"
+    },
+    {
+      "id": "youtube-tI_02Sl3gHM",
+      "type": "video",
+      "title": "Why ChatGPT Makes Things Up — and the Fix Nobody Told You | Paragon AI MAG",
+      "url": "https://www.youtube.com/watch?v=tI_02Sl3gHM",
+      "publishedAt": "2026-11-02T12:14:51.000Z",
+      "summary": "Why ChatGPT makes things up — and the fix nobody told you. ChatGPT invented six court cases that never existed, real lawyers filed them in a real court, and got fined $5,000. This Paragon…",
+      "source": "YouTube",
+      "image": "https://i1.ytimg.com/vi/tI_02Sl3gHM/hqdefault.jpg",
+      "videoId": "tI_02Sl3gHM"
+    },
+    {
+      "id": "redcircle-cca7c183-8310-4761-8e02-788847148a58",
+      "type": "podcast",
+      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/e8eb8abe-a05f-4a25-a64d-18940a2301b0",
+      "publishedAt": "2026-11-01T13:00:04.000Z",
+      "summary": "Paragon AI MAG goes deep on the app in your pocket: how Google Maps predicts traffic before you get there, the 99-phone stunt, Ask Maps, 3D previews, AR walking, and the privacy settings to…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/1/13/9a0a09ea-258d-4a67-be15-5c725c309d17_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/e8eb8abe-a05f-4a25-a64d-18940a2301b0/stream.mp3",
+      "duration": "3224"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/google-maps-ai-7-tricks-hidden-in",
+      "type": "article",
+      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone",
+      "url": "https://paragonaimag.substack.com/p/google-maps-ai-7-tricks-hidden-in",
+      "publishedAt": "2026-11-01T12:34:55.000Z",
+      "summary": "Welcome to today’s Paragon AI MAG. Your map app is not a map anymore — it is a prediction machine that reads millions of phones to guess where traffic will be before you get there. Today:…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9BuOVHxgcfk"
+    },
+    {
+      "id": "youtube-InX3KOF6Gvc",
+      "type": "video",
+      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone | Paragon AI MAG",
+      "url": "https://www.youtube.com/shorts/InX3KOF6Gvc",
+      "publishedAt": "2026-11-01T12:17:09.000Z",
+      "summary": "Your maps app does not see the road. It sees your phone. 99 phones in a wagon turned an empty street red — that is how Google Maps really knows traffic. Full video on YouTube:…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/InX3KOF6Gvc/hqdefault.jpg",
+      "videoId": "InX3KOF6Gvc"
+    },
+    {
+      "id": "redcircle-ba3aca7d-2133-42c1-bbe4-c7412b349e90",
+      "type": "podcast",
+      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3c96dca5-973e-4f10-a4bf-8c1d40d2afda",
+      "publishedAt": "2026-10-31T17:08:11.000Z",
+      "summary": "Your AI just started working while you sleep — and you didn't ask it to. In this Paragon AI MAG episode: OpenAI Dots, Anthropic Claude Duet and Ant Group's Lingguang 2.0 — how always-on…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/10/31/17/8fadcb03-ad86-483c-882b-1d78e344cb30_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/3c96dca5-973e-4f10-a4bf-8c1d40d2afda/stream.mp3",
+      "duration": "2578"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/your-ai-now-works-while-you-sleep",
+      "type": "article",
+      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained",
+      "url": "https://paragonaimag.substack.com/p/your-ai-now-works-while-you-sleep",
+      "publishedAt": "2026-10-31T16:16:44.000Z",
+      "summary": "Welcome to today’s edition of Paragon AI MAG. In autumn 2026, AI shifted decisively from reactive prompting to agents that work on their own. Today: OpenAI Dots, Anthropic Claude Duet and…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/f9-04mfO8vo"
+    },
+    {
+      "id": "youtube--prFYCFad2Y",
+      "type": "video",
+      "title": "YOUR AI WORKS WHILE YOU SLEEP",
+      "url": "https://www.youtube.com/shorts/-prFYCFad2Y",
+      "publishedAt": "2026-10-31T13:59:30.000Z",
+      "summary": "Your AI just started working while you sleep — and you didn't ask it to. Full video on the Paragon AI MAG YouTube channel: https://youtu.be/f9-04mfO8vo Follow Paragon AI MAG for one AI…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/-prFYCFad2Y/hqdefault.jpg",
+      "videoId": "-prFYCFad2Y"
+    },
+    {
+      "id": "youtube-f9-04mfO8vo",
+      "type": "video",
+      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained | Paragon AI MAG",
+      "url": "https://www.youtube.com/watch?v=f9-04mfO8vo",
+      "publishedAt": "2026-10-31T13:57:04.000Z",
+      "summary": "always-on AI agent — in five weeks, the world's biggest AI labs all shipped the same idea: an AI that does not wait for your prompt. OpenAI's Dots (29 September 2026), Anthropic's Claude…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/f9-04mfO8vo/hqdefault.jpg",
+      "videoId": "f9-04mfO8vo"
+    },
+    {
+      "id": "youtube-BefDgo9TEVg",
+      "type": "video",
+      "title": "AI Found the KEYS to Millions of Websites 🔑 | Paragon AI MAG",
+      "url": "https://www.youtube.com/shorts/BefDgo9TEVg",
+      "publishedAt": "2026-10-30T14:47:15.000Z",
+      "summary": "AI just found the keys to millions of websites — including ones you use every day. Full video on Paragon AI MAG YouTube: https://www.youtube.com/watch?v=hUg3-eb-A3A Follow Paragon AI MAG…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/BefDgo9TEVg/hqdefault.jpg",
+      "videoId": "BefDgo9TEVg"
+    },
+    {
+      "id": "redcircle-655ec5bf-4197-4728-8ce3-62b4e3ba7166",
+      "type": "podcast",
+      "title": "AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/d97fb13d-72d3-4c04-9645-9e094996921e",
+      "publishedAt": "2026-10-30T13:58:19.000Z",
+      "summary": "AI just found the keys to millions of websites — including ones you use every day. In this Paragon AI MAG deep dive: the October 2026 PHP2Shell crisis that took government websites offline,…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/10/30/13/cceaef99-9a98-4d11-9f91-21448965a8fe_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/d97fb13d-72d3-4c04-9645-9e094996921e/stream.mp3",
+      "duration": "3512"
+    },
+    {
+      "id": "redcircle-639f8ac7-0d1d-4d4a-ad6b-baeec11f6f3a",
+      "type": "podcast",
+      "title": "How ChatGPT Actually Works — It's Not Thinking, It's Predicting",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/813129c4-f7f4-4a58-8fd0-735c94527996",
+      "publishedAt": "2026-10-30T13:50:29.000Z",
+      "summary": "ChatGPT feels like it is thinking. It is not. This episode walks the full pipeline — tokenization, embeddings, attention, the 96-layer pattern engine, softmax and temperature — that turns…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/10/30/13/67f1230b-dc3d-492d-9db3-a024024ed294_podcast-ep1-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/813129c4-f7f4-4a58-8fd0-735c94527996/stream.mp3",
+      "duration": "447"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/ai-can-now-hack-the-internet-and",
+      "type": "article",
+      "title": "AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today",
+      "url": "https://paragonaimag.substack.com/p/ai-can-now-hack-the-internet-and",
+      "publishedAt": "2026-10-30T13:35:49.000Z",
+      "summary": "30 October 2026. Every fact below is backed by sources and was checked several times before release, so it reaches you with the fewest errors and flaws. We never claim to be entirely…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/hUg3-eb-A3A"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-does-chatgpt-work-its-not-thinking",
+      "type": "article",
+      "title": "How Does ChatGPT Work? It’s Not Thinking — It’s Predicting",
+      "url": "https://paragonaimag.substack.com/p/how-does-chatgpt-work-its-not-thinking",
+      "publishedAt": "2026-10-30T07:44:21.000Z",
+      "summary": "When you read a ChatGPT answer, it feels like a mind at work. Sentences arrive shaped like reasoning. The impression is strong — and it is wrong. Under the interface there is no reasoning.…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/zWNakhjsUp0"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/claude-cracked-a-25-year-nsa-cryptography",
+      "type": "article",
+      "title": "Claude Cracked a 25-Year NSA Cryptography Mystery in Under 30 Minutes",
+      "url": "https://paragonaimag.substack.com/p/claude-cracked-a-25-year-nsa-cryptography",
+      "publishedAt": "2026-10-19T06:12:00.000Z",
+      "summary": "AI disclosure: this article was produced with AI assistance and reviewed for accuracy. Flag: 🟢 Cleared the bar — Anthropic published primary evidence anyone can rerun; multiple independent…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/deepseek-v41-flash-1017-cheaper-ai",
+      "type": "article",
+      "title": "DeepSeek V4.1-Flash-1017: Cheaper AI Agents, Bigger Claims — What We Can Actually Verify",
+      "url": "https://paragonaimag.substack.com/p/deepseek-v41-flash-1017-cheaper-ai",
+      "publishedAt": "2026-10-18T17:51:35.000Z",
+      "summary": "*AI disclosure: this article was produced with AI assistance and reviewed for accuracy.* # DeepSeek V4.1-Flash-1017: Cheaper AI Agents, Bigger Claims — What We Can Actually Verify **Flag:…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "paragon-reader",
+  "version": "0.1.0",
+  "description": "Open Markdown files in the Paragon AI MAG MD Reader from any terminal.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "paragon": "./bin/paragon.js",
+    "paragon-md-reader": "./bin/paragon.js"
+  },
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/cli.ts --format esm --clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@paragon-ai-mag/server": "0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  }
+}

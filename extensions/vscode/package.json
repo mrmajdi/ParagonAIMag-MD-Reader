@@ -1,0 +1,48 @@
+{
+  "name": "paragon-reader-vscode",
+  "displayName": "Paragon AI MAG MD Reader",
+  "description": "Open the current Markdown file in Paragon Reader: RTL, Mermaid, math, code and a local-first reading view.",
+  "version": "0.1.0",
+  "publisher": "paragonaimag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmajdi/ParagonAIMag-MD-Reader.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Other", "Visualization"],
+  "keywords": ["markdown", "reader", "rtl", "mermaid", "katex", "persian"],
+  "activationEvents": ["onCommand:paragon.openReader"],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "paragon.openReader",
+        "title": "Paragon: Open Markdown in Reader",
+        "category": "Paragon",
+        "icon": "$(book-open)"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "paragon.openReader",
+          "when": "resourceExtname =~ /\\.(md|markdown|mdx)$/",
+          "group": "navigation"
+        }
+      ],
+      "commandPalette": [
+        {
+          "command": "paragon.openReader",
+          "when": "editorLangId == markdown"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "build": "node -e \"console.log('Paragon VS Code extension: no compile step')\"",
+    "package": "vsce package"
+  }
+}

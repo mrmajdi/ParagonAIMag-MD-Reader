@@ -1,0 +1,20 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+apps/web/dev-dist/
+extensions/*/web/
+extensions/*/app/
+extensions/*/reader/
+extensions/*/out/
+packages/*/dist/web/
+.freebuff/
+
+# Internal research, strategy and launch material. Kept locally, not published.
+docs/
+md-rtl-reader.html

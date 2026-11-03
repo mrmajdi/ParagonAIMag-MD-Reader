@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Paragon AI MAG MD Reader",
+  "short_name": "Paragon Reader",
+  "version": "0.1.0",
+  "description": "Open Markdown links and files in a local-first, RTL-native reader with Mermaid, math and code highlighting.",
+  "homepage_url": "https://github.com/mrmajdi/ParagonAIMag-MD-Reader",
+  "minimum_chrome_version": "116",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open Paragon Reader",
+    "default_icon": {
+      "32": "reader/favicon-32.png",
+      "192": "reader/pwa-192.png"
+    }
+  },
+  "icons": {
+    "32": "reader/favicon-32.png",
+    "192": "reader/pwa-192.png",
+    "512": "reader/pwa-512.png"
+  }
+}
