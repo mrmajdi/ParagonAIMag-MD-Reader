@@ -27,6 +27,8 @@ npm install
 npm run dev
 ```
 
+Live: **https://mrmajdi.github.io/ParagonAIMag-MD-Reader/**
+
 Open <http://127.0.0.1:5173>. Drop a `.md` file, open a folder, paste Markdown, or try the demo.
 
 Production build:
@@ -113,7 +115,7 @@ scripts/           feed updater
 
 ## Status
 
-This repository ships the **web reader, magazine feed, local server/CLI, MCP server and VS Code/Chrome integrations**. Native desktop/mobile packages, store listings, cloud connectors and the admin/update backend are planned, but are **not** included yet.
+Current checkpoint: the **web reader, magazine feed, local server/CLI, MCP server and VS Code/Chrome integrations** work and are verified. The live site is https://mrmajdi.github.io/ParagonAIMag-MD-Reader/. Native desktop/mobile installers, store listings, cloud connectors and the admin/update backend are still being built; they are not claimed here as finished.
 
 `npm run build` builds all current packages. For just the deployable web app, use `npm run build:web` (output `apps/web/dist`).
 
