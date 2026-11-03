@@ -53,6 +53,9 @@ export async function exportXlsx(article: HTMLElement, title: string): Promise<v
   if (tables.length === 0) throw new Error('No tables found in this document.');
   const XLSX = await import('xlsx');
   const workbook = XLSX.utils.book_new();
+  // SheetJS writes <sheetView rightToLeft="1"> from the WORKBOOK views,
+  // not from a sheet's !views (which it ignores on write) — set both.
+  workbook.Workbook = { ...(workbook.Workbook ?? {}), Views: [{ RTL: true }] };
   tables.forEach((rows, index) => {
     const sheet = XLSX.utils.aoa_to_sheet(rows);
     // Excel renders the sheet right-to-left, matching the document direction.
