@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-04T06:18:22.796Z",
+  "updatedAt": "2026-11-04T19:44:42.116Z",
   "items": [
+    {
+      "id": "redcircle-162cff12-4956-4748-915f-aaeadafd8962",
+      "type": "podcast",
+      "title": "ChatGPT Prompt Formula: Ask Like This",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/52e20bf3-ec4c-4f63-b66c-5d4004e04b02",
+      "publishedAt": "2026-11-04T13:06:12.000Z",
+      "summary": "Paragon AI MAG — ChatGPT Prompt Formula: Ask Like This. Follow Paragon AI MAG so you never miss an episode. The same AI gave a useless answer and a perfect one — and the only difference was…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/4/13/9ac18388-9479-4b08-8fe6-eae67f270410_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/52e20bf3-ec4c-4f63-b66c-5d4004e04b02/stream.mp3",
+      "duration": "2704"
+    },
+    {
+      "id": "youtube-qGqqgBuAKbA",
+      "type": "video",
+      "title": "ChatGPT Prompt Formula: Ask Like This",
+      "url": "https://www.youtube.com/shorts/qGqqgBuAKbA",
+      "publishedAt": "2026-11-04T12:21:09.000Z",
+      "summary": "ASK LIKE THIS ChatGPT Prompt Formula: Ask Like This Same AI. Useless answer vs perfect answer. The only difference? How it was asked. Learn the six-slot prompt formula in our new video.…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/qGqqgBuAKbA/hqdefault.jpg",
+      "videoId": "qGqqgBuAKbA"
+    },
     {
       "id": "redcircle-e4815b47-d667-42c7-b16c-0ac8b2054943",
       "type": "podcast",
@@ -176,17 +199,6 @@
       "summary": "Welcome to today’s edition of Paragon AI MAG. In autumn 2026, AI shifted decisively from reactive prompting to agents that work on their own. Today: OpenAI Dots, Anthropic Claude Duet and…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/f9-04mfO8vo"
-    },
-    {
-      "id": "youtube--prFYCFad2Y",
-      "type": "video",
-      "title": "YOUR AI WORKS WHILE YOU SLEEP",
-      "url": "https://www.youtube.com/shorts/-prFYCFad2Y",
-      "publishedAt": "2026-10-31T13:59:30.000Z",
-      "summary": "Your AI just started working while you sleep — and you didn't ask it to. Full video on the Paragon AI MAG YouTube channel: https://youtu.be/f9-04mfO8vo Follow Paragon AI MAG for one AI…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/-prFYCFad2Y/hqdefault.jpg",
-      "videoId": "-prFYCFad2Y"
     },
     {
       "id": "redcircle-655ec5bf-4197-4728-8ce3-62b4e3ba7166",
