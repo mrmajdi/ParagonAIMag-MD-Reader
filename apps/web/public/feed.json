@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-06T06:41:51.817Z",
+  "updatedAt": "2026-11-06T19:26:27.652Z",
   "items": [
+    {
+      "id": "redcircle-34485d70-0e7a-4f3b-8f2a-6d542a1cd874",
+      "type": "podcast",
+      "title": "NotebookLM Tutorial: 12 Things It Can Do",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/9d4a7998-fd4c-46bc-8ab0-2674b6b21eca",
+      "publishedAt": "2026-11-06T13:36:34.000Z",
+      "summary": "Paragon AI MAG — one video and one podcast episode every day, tracking revolutionary AI research. NotebookLM turns your own files into a podcast — and it only answers from what you…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/6/13/145becb7-1d9d-4b92-aa96-06c068d7db2d_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/9d4a7998-fd4c-46bc-8ab0-2674b6b21eca/stream.mp3",
+      "duration": "1612"
+    },
+    {
+      "id": "youtube-u7PFoPULO3g",
+      "type": "video",
+      "title": "NotebookLM Tutorial: 12 Things It Can Do",
+      "url": "https://www.youtube.com/shorts/u7PFoPULO3g",
+      "publishedAt": "2026-11-06T12:19:14.000Z",
+      "summary": "Google turned a 200-page PDF into a viral radio podcast — and the tool behind it is free. NotebookLM only answers from YOUR files, with receipts. 12 things it can do — full video:…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/u7PFoPULO3g/hqdefault.jpg",
+      "videoId": "u7PFoPULO3g"
+    },
     {
       "id": "redcircle-d629cfc8-de8b-4c4c-95ec-908eb1d023d6",
       "type": "podcast",
@@ -12,6 +35,17 @@
       "image": "https://media.redcircle.com/images/2026/11/5/12/210c9fbf-5cc3-4160-b0dc-dc6676d0c8bc_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/c9e53167-172c-4331-bc22-5dea067532fa/stream.mp3",
       "duration": "3455"
+    },
+    {
+      "id": "youtube-yawfm_VL6GM",
+      "type": "video",
+      "title": "Custom GPTs Are Ending — Do This Now",
+      "url": "https://www.youtube.com/shorts/yawfm_VL6GM",
+      "publishedAt": "2026-11-05T12:17:30.000Z",
+      "summary": "Custom GPTs are ending December 11, 2026 — more than 3 million were built. Watch the full video: https://youtu.be/kiTxa9Fb2EA Podcast episode:…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/yawfm_VL6GM/hqdefault.jpg",
+      "videoId": "yawfm_VL6GM"
     },
     {
       "id": "redcircle-162cff12-4956-4748-915f-aaeadafd8962",
@@ -147,17 +181,6 @@
       "videoId": "_xQfYjLgT6I"
     },
     {
-      "id": "youtube-tI_02Sl3gHM",
-      "type": "video",
-      "title": "Why ChatGPT Makes Things Up — and the Fix Nobody Told You | Paragon AI MAG",
-      "url": "https://www.youtube.com/watch?v=tI_02Sl3gHM",
-      "publishedAt": "2026-11-02T12:14:51.000Z",
-      "summary": "Why ChatGPT makes things up — and the fix nobody told you. ChatGPT invented six court cases that never existed, real lawyers filed them in a real court, and got fined $5,000. This Paragon…",
-      "source": "YouTube",
-      "image": "https://i1.ytimg.com/vi/tI_02Sl3gHM/hqdefault.jpg",
-      "videoId": "tI_02Sl3gHM"
-    },
-    {
       "id": "redcircle-cca7c183-8310-4761-8e02-788847148a58",
       "type": "podcast",
       "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone",
@@ -180,17 +203,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9BuOVHxgcfk"
     },
     {
-      "id": "youtube-InX3KOF6Gvc",
-      "type": "video",
-      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone | Paragon AI MAG",
-      "url": "https://www.youtube.com/shorts/InX3KOF6Gvc",
-      "publishedAt": "2026-11-01T12:17:09.000Z",
-      "summary": "Your maps app does not see the road. It sees your phone. 99 phones in a wagon turned an empty street red — that is how Google Maps really knows traffic. Full video on YouTube:…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/InX3KOF6Gvc/hqdefault.jpg",
-      "videoId": "InX3KOF6Gvc"
-    },
-    {
       "id": "redcircle-ba3aca7d-2133-42c1-bbe4-c7412b349e90",
       "type": "podcast",
       "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained",
@@ -211,18 +223,6 @@
       "summary": "Welcome to today’s edition of Paragon AI MAG. In autumn 2026, AI shifted decisively from reactive prompting to agents that work on their own. Today: OpenAI Dots, Anthropic Claude Duet and…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/f9-04mfO8vo"
-    },
-    {
-      "id": "redcircle-655ec5bf-4197-4728-8ce3-62b4e3ba7166",
-      "type": "podcast",
-      "title": "AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/d97fb13d-72d3-4c04-9645-9e094996921e",
-      "publishedAt": "2026-10-30T13:58:19.000Z",
-      "summary": "AI just found the keys to millions of websites — including ones you use every day. In this Paragon AI MAG deep dive: the October 2026 PHP2Shell crisis that took government websites offline,…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/10/30/13/cceaef99-9a98-4d11-9f91-21448965a8fe_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/d97fb13d-72d3-4c04-9645-9e094996921e/stream.mp3",
-      "duration": "3512"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/ai-can-now-hack-the-internet-and",
