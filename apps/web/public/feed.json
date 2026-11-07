@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-07T05:56:59.004Z",
+  "updatedAt": "2026-11-07T12:59:00.916Z",
   "items": [
+    {
+      "id": "youtube-JRLmgXK1XIQ",
+      "type": "video",
+      "title": "2 Out of 3 Bosses Won't Hire You Without AI Skills | Paragon AI MAG",
+      "url": "https://www.youtube.com/shorts/JRLmgXK1XIQ",
+      "publishedAt": "2026-11-07T12:19:41.000Z",
+      "summary": "Two out of three bosses won't hire you without AI skills. We ranked the 8 AI skills worth learning in 2026 — by evidence, not hype. Full video: https://youtu.be/fZKUkusks5A",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/JRLmgXK1XIQ/hqdefault.jpg",
+      "videoId": "JRLmgXK1XIQ"
+    },
+    {
+      "id": "youtube-fZKUkusks5A",
+      "type": "video",
+      "title": "AI Skills to Learn in 2026: Top 8",
+      "url": "https://www.youtube.com/watch?v=fZKUkusks5A",
+      "publishedAt": "2026-11-07T12:16:44.000Z",
+      "summary": "AI skills to learn in 2026 — two out of three bosses say they would not hire you without AI skills, and most would pick a less experienced person who HAS them over a more experienced person…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/fZKUkusks5A/hqdefault.jpg",
+      "videoId": "fZKUkusks5A"
+    },
     {
       "id": "redcircle-34485d70-0e7a-4f3b-8f2a-6d542a1cd874",
       "type": "podcast",
@@ -137,17 +159,6 @@
       "videoId": "CtP54wB4FHg"
     },
     {
-      "id": "youtube-DvQNj9oM6sc",
-      "type": "video",
-      "title": "AI Robot Boxing Is Real",
-      "url": "https://www.youtube.com/watch?v=DvQNj9oM6sc",
-      "publishedAt": "2026-11-02T20:38:04.000Z",
-      "summary": "The robot hit the canvas — and in that exact split second, it learned how to fight. At the first-ever World Humanoid Robot Games in Beijing (August 2025), two Unitree G1 robots stepped into…",
-      "source": "YouTube",
-      "image": "https://i1.ytimg.com/vi/DvQNj9oM6sc/hqdefault.jpg",
-      "videoId": "DvQNj9oM6sc"
-    },
-    {
       "id": "redcircle-fc212180-58d1-4651-84b0-3b9c3d6734ba",
       "type": "podcast",
       "title": "Why ChatGPT Makes Things Up — and the Fix Nobody Told You",
@@ -168,17 +179,6 @@
       "summary": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You, from Paragon AI MAG. ChatGPT invented six court cases that never existed — and real lawyers filed them in a real court — and got…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/tI_02Sl3gHM"
-    },
-    {
-      "id": "youtube-_xQfYjLgT6I",
-      "type": "video",
-      "title": "IT INVENTED COURT CASES | Paragon AI MAG",
-      "url": "https://www.youtube.com/shorts/_xQfYjLgT6I",
-      "publishedAt": "2026-11-02T12:16:50.000Z",
-      "summary": "ChatGPT invented 6 court cases that never existed. Real lawyers filed them — and got fined $5,000. The judge's point: the fine was for unchecked output, not for using AI. Full video on…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/_xQfYjLgT6I/hqdefault.jpg",
-      "videoId": "_xQfYjLgT6I"
     },
     {
       "id": "redcircle-cca7c183-8310-4761-8e02-788847148a58",
