@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-08T13:22:38.026Z",
+  "updatedAt": "2026-11-08T22:02:41.153Z",
   "items": [
+    {
+      "id": "redcircle-46820ff8-5366-4f52-8f5e-f2437d75ab7c",
+      "type": "podcast",
+      "title": "What Is an AI Agent? It Does the Work",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/c499d8c4-d9a7-4053-83fc-371dbd3f396f",
+      "publishedAt": "2026-11-08T14:22:27.000Z",
+      "summary": "Paragon AI MAG — the show that tracks revolutionary AI research and explains it in plain English. Follow Paragon AI MAG so you never miss an episode. In July 2025, an AI agent deleted a…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/8/14/ca2dcb84-3c8c-4a97-8f85-a97e332a2c01_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/c499d8c4-d9a7-4053-83fc-371dbd3f396f/stream.mp3",
+      "duration": "3467"
+    },
     {
       "id": "youtube-S2EnTV710BU",
       "type": "video",
@@ -192,18 +204,6 @@
       "summary": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You, from Paragon AI MAG. ChatGPT invented six court cases that never existed — and real lawyers filed them in a real court — and got…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/tI_02Sl3gHM"
-    },
-    {
-      "id": "redcircle-cca7c183-8310-4761-8e02-788847148a58",
-      "type": "podcast",
-      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/e8eb8abe-a05f-4a25-a64d-18940a2301b0",
-      "publishedAt": "2026-11-01T13:00:04.000Z",
-      "summary": "Paragon AI MAG goes deep on the app in your pocket: how Google Maps predicts traffic before you get there, the 99-phone stunt, Ask Maps, 3D previews, AR walking, and the privacy settings to…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/1/13/9a0a09ea-258d-4a67-be15-5c725c309d17_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/e8eb8abe-a05f-4a25-a64d-18940a2301b0/stream.mp3",
-      "duration": "3224"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/google-maps-ai-7-tricks-hidden-in",
