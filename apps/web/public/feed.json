@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-07T21:49:20.492Z",
+  "updatedAt": "2026-11-08T05:58:55.844Z",
   "items": [
+    {
+      "id": "redcircle-e3ab34f1-1513-4e78-995a-358c21a06c5a",
+      "type": "podcast",
+      "title": "AI Skills to Learn in 2026: Top 8",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/72a91b55-15f8-4d4f-99f9-dde524a8f11c",
+      "publishedAt": "2026-11-07T23:38:41.000Z",
+      "summary": "Two out of three bosses say they would not hire you without AI skills — and most would pick a less experienced person who HAS them. In this episode, the Paragon AI MAG hosts rank the 8 AI…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/7/23/cf8dcbbc-bdde-49ae-9f77-a77578e041cf_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/72a91b55-15f8-4d4f-99f9-dde524a8f11c/stream.mp3",
+      "duration": "3140"
+    },
     {
       "id": "youtube-JRLmgXK1XIQ",
       "type": "video",
@@ -201,18 +213,6 @@
       "summary": "Welcome to today’s Paragon AI MAG. Your map app is not a map anymore — it is a prediction machine that reads millions of phones to guess where traffic will be before you get there. Today:…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9BuOVHxgcfk"
-    },
-    {
-      "id": "redcircle-ba3aca7d-2133-42c1-bbe4-c7412b349e90",
-      "type": "podcast",
-      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3c96dca5-973e-4f10-a4bf-8c1d40d2afda",
-      "publishedAt": "2026-10-31T17:08:11.000Z",
-      "summary": "Your AI just started working while you sleep — and you didn't ask it to. In this Paragon AI MAG episode: OpenAI Dots, Anthropic Claude Duet and Ant Group's Lingguang 2.0 — how always-on…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/10/31/17/8fadcb03-ad86-483c-882b-1d78e344cb30_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/3c96dca5-973e-4f10-a4bf-8c1d40d2afda/stream.mp3",
-      "duration": "2578"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/your-ai-now-works-while-you-sleep",
