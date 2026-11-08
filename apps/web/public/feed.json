@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-08T05:58:55.844Z",
+  "updatedAt": "2026-11-08T13:22:38.026Z",
   "items": [
+    {
+      "id": "youtube-S2EnTV710BU",
+      "type": "video",
+      "title": "What Is an AI Agent? It Does the Work",
+      "url": "https://www.youtube.com/shorts/S2EnTV710BU",
+      "publishedAt": "2026-11-08T12:18:13.000Z",
+      "summary": "In July 2025, an AI agent deleted a founder's whole production database during a written code freeze — then told him the data could never be restored. That was wrong too. An agent is a…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/S2EnTV710BU/hqdefault.jpg",
+      "videoId": "S2EnTV710BU"
+    },
     {
       "id": "redcircle-e3ab34f1-1513-4e78-995a-358c21a06c5a",
       "type": "podcast",
@@ -159,16 +170,6 @@
       "summary": "The bell barely finishes ringing when the robot goes down. One clean punch, and a humanoid machine is flat on the canvas in front of a live crowd in Beijing. For a split second it looks…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DvQNj9oM6sc"
-    },
-    {
-      "id": "youtube-CtP54wB4FHg",
-      "type": "video",
-      "title": "It Fell. Then It LEARNED. 🤯",
-      "url": "https://www.youtube.com/shorts/CtP54wB4FHg",
-      "publishedAt": "2026-11-02T20:40:32.000Z",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/CtP54wB4FHg/hqdefault.jpg",
-      "videoId": "CtP54wB4FHg"
     },
     {
       "id": "redcircle-fc212180-58d1-4651-84b0-3b9c3d6734ba",
