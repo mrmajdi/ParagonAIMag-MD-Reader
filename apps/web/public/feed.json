@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-09T06:23:34.367Z",
+  "updatedAt": "2026-11-09T22:20:10.277Z",
   "items": [
+    {
+      "id": "redcircle-37bc10d4-0492-488f-8e55-fe133dcb3309",
+      "type": "podcast",
+      "title": "Build Your First AI Agent",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/21a63ce6-8302-4da1-880c-fc67441d2b58",
+      "publishedAt": "2026-11-09T12:53:17.000Z",
+      "summary": "Paragon AI MAG — Series 2, Episode 2: Build Your First AI Agent A new episode every day — made to fit your morning coffee or your drive. Follow Paragon AI MAG so you never miss an episode.…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/9/12/ac014faa-4002-4f77-8721-ee2705e377e3_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/21a63ce6-8302-4da1-880c-fc67441d2b58/stream.mp3",
+      "duration": "2835"
+    },
+    {
+      "id": "youtube-Ynb-5QTwKaI",
+      "type": "video",
+      "title": "Build Your First AI Agent",
+      "url": "https://www.youtube.com/shorts/Ynb-5QTwKaI",
+      "publishedAt": "2026-11-09T12:22:57.000Z",
+      "summary": "OpenAI is shutting down its drag-and-drop agent builder on November 30th. Build on tools you own, not tools a vendor can switch off. A first AI agent needs five things: one job, plain…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/Ynb-5QTwKaI/hqdefault.jpg",
+      "videoId": "Ynb-5QTwKaI"
+    },
     {
       "id": "redcircle-46820ff8-5366-4f52-8f5e-f2437d75ab7c",
       "type": "podcast",
@@ -151,17 +174,6 @@
       "videoId": "Z585b1EtUPo"
     },
     {
-      "id": "youtube-ngM08w8ZfLg",
-      "type": "video",
-      "title": "AI vs Machine Learning vs Deep Learning",
-      "url": "https://www.youtube.com/watch?v=ngM08w8ZfLg",
-      "publishedAt": "2026-11-03T12:16:23.000Z",
-      "summary": "AI vs machine learning vs deep learning vs generative AI — four words everyone mixes up, and only one of them actually creates anything new. This is Episode 1 of Paragon AI MAG's series…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/ngM08w8ZfLg/hqdefault.jpg",
-      "videoId": "ngM08w8ZfLg"
-    },
-    {
       "id": "redcircle-1c62c16d-6288-4090-b3e0-6812bbd85e01",
       "type": "podcast",
       "title": "AI Robot Boxers Learn by Falling",
@@ -182,18 +194,6 @@
       "summary": "The bell barely finishes ringing when the robot goes down. One clean punch, and a humanoid machine is flat on the canvas in front of a live crowd in Beijing. For a split second it looks…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DvQNj9oM6sc"
-    },
-    {
-      "id": "redcircle-fc212180-58d1-4651-84b0-3b9c3d6734ba",
-      "type": "podcast",
-      "title": "Why ChatGPT Makes Things Up — and the Fix Nobody Told You",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/235e209b-4c2e-484c-9535-3499028cbcde",
-      "publishedAt": "2026-11-02T12:34:54.000Z",
-      "summary": "Paragon AI MAG goes deep on why ChatGPT makes things up: next-word prediction, the Mata v. Avianca $5,000 case, how retrieval-augmented generation works, where it still fails, and the…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/2/12/69b79a27-231b-4bd5-b7c6-b7f2d776851d_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/235e209b-4c2e-484c-9535-3499028cbcde/stream.mp3",
-      "duration": "1561"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/why-chatgpt-makes-things-up-and-the",
