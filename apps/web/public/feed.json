@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-10T07:18:30.236Z",
+  "updatedAt": "2026-11-10T19:43:57.460Z",
   "items": [
+    {
+      "id": "redcircle-6cddd1f5-178d-4ce0-90d2-36bd603151a4",
+      "type": "podcast",
+      "title": "Will AI Replace Apps? — Paragon AI MAG, Series 2 Episode 3",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/c9ad608d-89bf-4d0f-88e5-71f635ef6666",
+      "publishedAt": "2026-11-10T14:05:58.000Z",
+      "summary": "Will AI replace apps? The Microsoft CEO's prediction, explained simply — Paragon AI MAG, Series 2 Episode 3. Follow Paragon AI MAG so you never miss an episode. In December 2024, Microsoft…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/10/14/97caef1d-bed8-4c92-af3a-9754577e26d7_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/c9ad608d-89bf-4d0f-88e5-71f635ef6666/stream.mp3",
+      "duration": "2548"
+    },
+    {
+      "id": "youtube-QlA-e8EDf4w",
+      "type": "video",
+      "title": "Will AI Replace Apps?",
+      "url": "https://www.youtube.com/shorts/QlA-e8EDf4w",
+      "publishedAt": "2026-11-10T12:17:16.000Z",
+      "summary": "Will AI replace apps? Microsoft CEO Satya Nadella says business apps will collapse in the Agent Era. The average company pays for 106 apps — 53% of licenses go unused in 30 days. Salesforce…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/QlA-e8EDf4w/hqdefault.jpg",
+      "videoId": "QlA-e8EDf4w"
+    },
     {
       "id": "redcircle-37bc10d4-0492-488f-8e55-fe133dcb3309",
       "type": "podcast",
@@ -161,29 +184,6 @@
       "image": "https://media.redcircle.com/images/2026/11/3/16/861ee826-f302-4c95-857f-92a9822cbd58_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/980038e6-e93a-4193-998c-c3ecd07121b0/stream.mp3",
       "duration": "3111"
-    },
-    {
-      "id": "youtube-Z585b1EtUPo",
-      "type": "video",
-      "title": "AI vs Machine Learning vs Deep Learning — Only One Creates",
-      "url": "https://www.youtube.com/shorts/Z585b1EtUPo",
-      "publishedAt": "2026-11-03T12:19:06.000Z",
-      "summary": "Only one of these four words actually creates anything new. Watch the full Paragon AI MAG video here: https://youtu.be/ngM08w8ZfLg AI vs machine learning vs deep learning vs generative AI —…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/Z585b1EtUPo/hqdefault.jpg",
-      "videoId": "Z585b1EtUPo"
-    },
-    {
-      "id": "redcircle-1c62c16d-6288-4090-b3e0-6812bbd85e01",
-      "type": "podcast",
-      "title": "AI Robot Boxers Learn by Falling",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/f2222807-7416-4d73-9b54-d97185a9c5e4",
-      "publishedAt": "2026-11-03T05:11:35.000Z",
-      "summary": "A robot boxer doesn't win by never falling. It wins by falling better. At the first World Humanoid Robot Games in Beijing, a Unitree G1 took a real punch, hit the canvas — and used the fall…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/3/5/0f366793-a3e6-407f-96b2-4c156d6ff9db_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/f2222807-7416-4d73-9b54-d97185a9c5e4/stream.mp3",
-      "duration": "3505"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
