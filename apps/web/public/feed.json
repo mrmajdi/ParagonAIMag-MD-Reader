@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-11T06:14:00.493Z",
+  "updatedAt": "2026-11-12T00:41:53.796Z",
   "items": [
+    {
+      "id": "redcircle-5cad5086-5d9c-4629-8811-9b0a9af61cff",
+      "type": "podcast",
+      "title": "Which Jobs Will AI Replace First?",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/4a1f55f9-1658-4b37-9bb8-795eb986e655",
+      "publishedAt": "2026-11-11T13:00:28.000Z",
+      "summary": "Computer programmers have the highest AI exposure of any job — 75% of their tasks already show up in real AI use at work. So which jobs does AI actually take first — and is yours on the…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/11/13/2feb56d4-2f27-4ad5-a34a-4d1abd8f7d09_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/4a1f55f9-1658-4b37-9bb8-795eb986e655/stream.mp3",
+      "duration": "2867"
+    },
+    {
+      "id": "youtube-hinjR9HXJ44",
+      "type": "video",
+      "title": "Which Jobs Will AI Replace First?",
+      "url": "https://www.youtube.com/shorts/hinjR9HXJ44",
+      "publishedAt": "2026-11-11T12:18:17.000Z",
+      "summary": "The people who BUILD AI are the ones most exposed to it — computer programmers: 75% of their tasks already show up in real AI use at work. Which jobs go first? Watch the full video:…",
+      "source": "YouTube",
+      "image": "https://i1.ytimg.com/vi/hinjR9HXJ44/hqdefault.jpg",
+      "videoId": "hinjR9HXJ44"
+    },
     {
       "id": "redcircle-6cddd1f5-178d-4ce0-90d2-36bd603151a4",
       "type": "podcast",
@@ -161,29 +184,6 @@
       "image": "https://media.redcircle.com/images/2026/11/4/13/9ac18388-9479-4b08-8fe6-eae67f270410_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/52e20bf3-ec4c-4f63-b66c-5d4004e04b02/stream.mp3",
       "duration": "2704"
-    },
-    {
-      "id": "youtube-qGqqgBuAKbA",
-      "type": "video",
-      "title": "ChatGPT Prompt Formula: Ask Like This",
-      "url": "https://www.youtube.com/shorts/qGqqgBuAKbA",
-      "publishedAt": "2026-11-04T12:21:09.000Z",
-      "summary": "ASK LIKE THIS ChatGPT Prompt Formula: Ask Like This Same AI. Useless answer vs perfect answer. The only difference? How it was asked. Learn the six-slot prompt formula in our new video.…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/qGqqgBuAKbA/hqdefault.jpg",
-      "videoId": "qGqqgBuAKbA"
-    },
-    {
-      "id": "redcircle-e4815b47-d667-42c7-b16c-0ac8b2054943",
-      "type": "podcast",
-      "title": "AI vs Machine Learning vs Deep Learning — Four Words, One Test",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/980038e6-e93a-4193-998c-c3ecd07121b0",
-      "publishedAt": "2026-11-03T16:43:11.000Z",
-      "summary": "Paragon AI MAG Follow Paragon AI MAG so you never miss an episode. AI, machine learning, deep learning, generative AI — four words everyone mixes up, and only one creates anything new. In…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/3/16/861ee826-f302-4c95-857f-92a9822cbd58_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/980038e6-e93a-4193-998c-c3ecd07121b0/stream.mp3",
-      "duration": "3111"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
