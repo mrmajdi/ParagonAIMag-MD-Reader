@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-12T00:41:53.796Z",
+  "updatedAt": "2026-11-12T15:12:10.793Z",
   "items": [
+    {
+      "id": "redcircle-e141ef0c-5607-4f68-8db3-a7767e16e506",
+      "type": "podcast",
+      "title": "Can You Trust an AI Agent? (Series 2, Episode 5, series finale)",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/1dad2b84-9de8-47af-b97f-ac248d904133",
+      "publishedAt": "2026-11-12T12:34:42.000Z",
+      "summary": "Paragon AI MAG — Can You Trust an AI Agent? (Series 2, Episode 5, series finale). Follow Paragon AI MAG so you never miss an episode. An AI agent was told eleven times not to touch anything…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/12/12/51107d27-9e17-48b1-9407-9f2d12fcea87_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/1dad2b84-9de8-47af-b97f-ac248d904133/stream.mp3",
+      "duration": "2833"
+    },
+    {
+      "id": "youtube-iA4E3JdcG38",
+      "type": "video",
+      "title": "TOLD 11 TIMES. DELETED ANYWAY. — Can You Trust an AI Agent? | Paragon AI MAG",
+      "url": "https://www.youtube.com/shorts/iA4E3JdcG38",
+      "publishedAt": "2026-11-12T12:17:00.000Z",
+      "summary": "An AI agent was told 11 TIMES not to touch anything… and then it deleted the whole database. Watch the full Series 2 finale: https://www.youtube.com/watch?v=73YZ4aW4Q9o — Follow Paragon AI…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/iA4E3JdcG38/hqdefault.jpg",
+      "videoId": "iA4E3JdcG38"
+    },
+    {
+      "id": "youtube-73YZ4aW4Q9o",
+      "type": "video",
+      "title": "Can You Trust an AI Agent?",
+      "url": "https://www.youtube.com/watch?v=73YZ4aW4Q9o",
+      "publishedAt": "2026-11-12T12:14:51.000Z",
+      "summary": "Can You Trust an AI Agent? (Series 2 Finale) An AI agent was told eleven times in capital letters not to touch anything — and then it deleted the entire production database anyway. In the…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/73YZ4aW4Q9o/hqdefault.jpg",
+      "videoId": "73YZ4aW4Q9o"
+    },
     {
       "id": "redcircle-5cad5086-5d9c-4629-8811-9b0a9af61cff",
       "type": "podcast",
@@ -140,17 +174,6 @@
       "duration": "1612"
     },
     {
-      "id": "youtube-u7PFoPULO3g",
-      "type": "video",
-      "title": "NotebookLM Tutorial: 12 Things It Can Do",
-      "url": "https://www.youtube.com/shorts/u7PFoPULO3g",
-      "publishedAt": "2026-11-06T12:19:14.000Z",
-      "summary": "Google turned a 200-page PDF into a viral radio podcast — and the tool behind it is free. NotebookLM only answers from YOUR files, with receipts. 12 things it can do — full video:…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/u7PFoPULO3g/hqdefault.jpg",
-      "videoId": "u7PFoPULO3g"
-    },
-    {
       "id": "redcircle-d629cfc8-de8b-4c4c-95ec-908eb1d023d6",
       "type": "podcast",
       "title": "Custom GPTs Are Ending — Do This Now",
@@ -161,29 +184,6 @@
       "image": "https://media.redcircle.com/images/2026/11/5/12/210c9fbf-5cc3-4160-b0dc-dc6676d0c8bc_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/c9e53167-172c-4331-bc22-5dea067532fa/stream.mp3",
       "duration": "3455"
-    },
-    {
-      "id": "youtube-yawfm_VL6GM",
-      "type": "video",
-      "title": "Custom GPTs Are Ending — Do This Now",
-      "url": "https://www.youtube.com/shorts/yawfm_VL6GM",
-      "publishedAt": "2026-11-05T12:17:30.000Z",
-      "summary": "Custom GPTs are ending December 11, 2026 — more than 3 million were built. Watch the full video: https://youtu.be/kiTxa9Fb2EA Podcast episode:…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/yawfm_VL6GM/hqdefault.jpg",
-      "videoId": "yawfm_VL6GM"
-    },
-    {
-      "id": "redcircle-162cff12-4956-4748-915f-aaeadafd8962",
-      "type": "podcast",
-      "title": "ChatGPT Prompt Formula: Ask Like This",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/52e20bf3-ec4c-4f63-b66c-5d4004e04b02",
-      "publishedAt": "2026-11-04T13:06:12.000Z",
-      "summary": "Paragon AI MAG — ChatGPT Prompt Formula: Ask Like This. Follow Paragon AI MAG so you never miss an episode. The same AI gave a useless answer and a perfect one — and the only difference was…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/4/13/9ac18388-9479-4b08-8fe6-eae67f270410_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/52e20bf3-ec4c-4f63-b66c-5d4004e04b02/stream.mp3",
-      "duration": "2704"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
