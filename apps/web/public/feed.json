@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-13T06:42:24.666Z",
+  "updatedAt": "2026-11-13T19:40:53.327Z",
   "items": [
+    {
+      "id": "redcircle-a76bcfa3-3465-49d3-850d-0bb92eda3d78",
+      "type": "podcast",
+      "title": "How Does Voice Cloning Work? (Series 3, Episode 1)",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/1bf58b01-d4ea-4749-aad3-7a4aec1a9c89",
+      "publishedAt": "2026-11-13T16:12:52.000Z",
+      "summary": "Paragon AI MAG — How Does Voice Cloning Work? (Series 3, Episode 1). Follow Paragon AI MAG so you never miss an episode. Three seconds of audio is enough for AI to clone your voice — with…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/13/16/240ef5b6-7024-4b1f-b55f-5123e43e717f_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/1bf58b01-d4ea-4749-aad3-7a4aec1a9c89/stream.mp3",
+      "duration": "3585"
+    },
+    {
+      "id": "youtube-6PlGRAZWbnM",
+      "type": "video",
+      "title": "How Does Voice Cloning Work?",
+      "url": "https://www.youtube.com/shorts/6PlGRAZWbnM",
+      "publishedAt": "2026-11-13T12:17:50.000Z",
+      "summary": "3 seconds of your voice is enough for AI to clone it… with 85% accuracy. In one study, 36% of people would send money to a cloned \"sister in danger\". Here is the 5-step plan to protect your…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/6PlGRAZWbnM/hqdefault.jpg",
+      "videoId": "6PlGRAZWbnM"
+    },
     {
       "id": "redcircle-e141ef0c-5607-4f68-8db3-a7767e16e506",
       "type": "podcast",
@@ -151,17 +174,6 @@
       "videoId": "JRLmgXK1XIQ"
     },
     {
-      "id": "youtube-fZKUkusks5A",
-      "type": "video",
-      "title": "AI Skills to Learn in 2026: Top 8",
-      "url": "https://www.youtube.com/watch?v=fZKUkusks5A",
-      "publishedAt": "2026-11-07T12:16:44.000Z",
-      "summary": "AI skills to learn in 2026 — two out of three bosses say they would not hire you without AI skills, and most would pick a less experienced person who HAS them over a more experienced person…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/fZKUkusks5A/hqdefault.jpg",
-      "videoId": "fZKUkusks5A"
-    },
-    {
       "id": "redcircle-34485d70-0e7a-4f3b-8f2a-6d542a1cd874",
       "type": "podcast",
       "title": "NotebookLM Tutorial: 12 Things It Can Do",
@@ -172,18 +184,6 @@
       "image": "https://media.redcircle.com/images/2026/11/6/13/145becb7-1d9d-4b92-aa96-06c068d7db2d_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/9d4a7998-fd4c-46bc-8ab0-2674b6b21eca/stream.mp3",
       "duration": "1612"
-    },
-    {
-      "id": "redcircle-d629cfc8-de8b-4c4c-95ec-908eb1d023d6",
-      "type": "podcast",
-      "title": "Custom GPTs Are Ending — Do This Now",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/c9e53167-172c-4331-bc22-5dea067532fa",
-      "publishedAt": "2026-11-05T12:40:53.000Z",
-      "summary": "Paragon AI MAG — See AI's next breakthrough, before it changes everything. Follow Paragon AI MAG so you never miss an episode. OpenAI is retiring every custom GPT on December 11, 2026 —…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/5/12/210c9fbf-5cc3-4160-b0dc-dc6676d0c8bc_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/c9e53167-172c-4331-bc22-5dea067532fa/stream.mp3",
-      "duration": "3455"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
