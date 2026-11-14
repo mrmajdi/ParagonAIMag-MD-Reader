@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-14T06:19:36.542Z",
+  "updatedAt": "2026-11-14T18:00:02.089Z",
   "items": [
+    {
+      "id": "redcircle-16df74ac-aca0-405d-8e6f-24941825caac",
+      "type": "podcast",
+      "title": "How AI Image Generation Works",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/ed2407d9-3bdd-436c-b1c1-5cda2c684d10",
+      "publishedAt": "2026-11-14T13:07:54.000Z",
+      "summary": "Paragon AI MAG — How AI Image Generation Works (Series 3, Episode 2). Follow Paragon AI MAG so you never miss an episode. One fake AI picture of the Pentagon moved the American stock market…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/14/13/fc329511-1909-47e2-adec-168091ad80cd_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/ed2407d9-3bdd-436c-b1c1-5cda2c684d10/stream.mp3",
+      "duration": "3853"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-ai-image-generation-works",
+      "type": "article",
+      "title": "How AI Image Generation Works",
+      "url": "https://paragonaimag.substack.com/p/how-ai-image-generation-works",
+      "publishedAt": "2026-11-14T12:30:23.000Z",
+      "summary": "How AI Image Generation Works (Series 3, Episode 2). One fake AI picture of the Pentagon moved the American stock market by 0.3% in four minutes. In the second episode of our series “How…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/b1VJCRzkslo"
+    },
+    {
+      "id": "youtube-z3JRxxJqSYA",
+      "type": "video",
+      "title": "How AI Image Generation Works",
+      "url": "https://www.youtube.com/shorts/z3JRxxJqSYA",
+      "publishedAt": "2026-11-14T12:17:35.000Z",
+      "summary": "One fake AI picture of the Pentagon moved the American stock market by 0.3% in four minutes. AI image tools do not draw — they start from television static and clean it up, step by step, in…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/z3JRxxJqSYA/hqdefault.jpg",
+      "videoId": "z3JRxxJqSYA"
+    },
     {
       "id": "redcircle-a76bcfa3-3465-49d3-850d-0bb92eda3d78",
       "type": "podcast",
@@ -14,6 +47,16 @@
       "duration": "3585"
     },
     {
+      "id": "substack-https://paragonaimag.substack.com/p/how-does-voice-cloning-work",
+      "type": "article",
+      "title": "How Does Voice Cloning Work?",
+      "url": "https://paragonaimag.substack.com/p/how-does-voice-cloning-work",
+      "publishedAt": "2026-11-13T15:03:12.000Z",
+      "summary": "Series 3, Episode 1: “How the AI Tools You Use Actually Work” How Does Voice Cloning Work? (Series 3, Episode 1) Three seconds of audio is enough for AI to clone your voice — with 85%…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/GbVQM5keT-s"
+    },
+    {
       "id": "youtube-6PlGRAZWbnM",
       "type": "video",
       "title": "How Does Voice Cloning Work?",
@@ -23,6 +66,16 @@
       "source": "YouTube",
       "image": "https://i3.ytimg.com/vi/6PlGRAZWbnM/hqdefault.jpg",
       "videoId": "6PlGRAZWbnM"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/can-you-trust-an-ai-agent",
+      "type": "article",
+      "title": "Can You Trust an AI Agent?",
+      "url": "https://paragonaimag.substack.com/p/can-you-trust-an-ai-agent",
+      "publishedAt": "2026-11-12T15:44:55.000Z",
+      "summary": "Can You Trust an AI Agent? Paragon AI MAG — Series 2, Episode 5 (series finale) — 12 November 2026 An AI agent was told eleven times in capital letters not to touch anything without…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/73YZ4aW4Q9o"
     },
     {
       "id": "redcircle-e141ef0c-5607-4f68-8db3-a7767e16e506",
@@ -71,6 +124,16 @@
       "duration": "2867"
     },
     {
+      "id": "substack-https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
+      "type": "article",
+      "title": "Which Jobs Will AI Replace First?",
+      "url": "https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
+      "publishedAt": "2026-11-11T12:33:46.000Z",
+      "summary": "Computer programmers have the highest AI exposure of any job — 75% of their tasks already show up in real AI use at work. That is the opening fact of today's Paragon AI MAG video, \"Which…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/YGcBWtUC3XU"
+    },
+    {
       "id": "youtube-hinjR9HXJ44",
       "type": "video",
       "title": "Which Jobs Will AI Replace First?",
@@ -92,6 +155,16 @@
       "image": "https://media.redcircle.com/images/2026/11/10/14/97caef1d-bed8-4c92-af3a-9754577e26d7_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/c9ad608d-89bf-4d0f-88e5-71f635ef6666/stream.mp3",
       "duration": "2548"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/will-ai-replace-apps-the-real-mechanism",
+      "type": "article",
+      "title": "Will AI Replace Apps? The Real Mechanism, the Money Proof, and the Survival Guide",
+      "url": "https://paragonaimag.substack.com/p/will-ai-replace-apps-the-real-mechanism",
+      "publishedAt": "2026-11-10T12:25:39.000Z",
+      "summary": "Paragon AI MAG — Series 2, Episode 3 — 10 November 2026 In December 2024, Microsoft CEO Satya Nadella said business applications will \"collapse\" in the Agent Era. Today, in Series 2 Episode…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/np3HxidS4vg"
     },
     {
       "id": "youtube-QlA-e8EDf4w",
@@ -117,6 +190,16 @@
       "duration": "2835"
     },
     {
+      "id": "substack-https://paragonaimag.substack.com/p/build-your-first-ai-agent",
+      "type": "article",
+      "title": "Build Your First AI Agent",
+      "url": "https://paragonaimag.substack.com/p/build-your-first-ai-agent",
+      "publishedAt": "2026-11-09T12:25:16.000Z",
+      "summary": "Paragon AI MAG, Series 2, Episode 2 — “AI Agents: The AI That Does the Work” OpenAI is shutting down Agent Builder — the drag-and-drop part of AgentKit for building agents inside ChatGPT —…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/yVZ06ecrDtc"
+    },
+    {
       "id": "youtube-Ynb-5QTwKaI",
       "type": "video",
       "title": "Build Your First AI Agent",
@@ -138,6 +221,16 @@
       "image": "https://media.redcircle.com/images/2026/11/8/14/ca2dcb84-3c8c-4a97-8f85-a97e332a2c01_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/c499d8c4-d9a7-4053-83fc-371dbd3f396f/stream.mp3",
       "duration": "3467"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/what-is-an-ai-agent-it-does-the-work",
+      "type": "article",
+      "title": "What Is an AI Agent? It Does the Work",
+      "url": "https://paragonaimag.substack.com/p/what-is-an-ai-agent-it-does-the-work",
+      "publishedAt": "2026-11-08T13:42:10.000Z",
+      "summary": "Chatbots talk. AI agents do the work — they book the flight, file the form, and email your boss. By Paragon AI MAG — Series 2, Episode 1 of “AI Agents: The AI That Does the Work” In July…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/-T_UNTxvU68"
     },
     {
       "id": "youtube-S2EnTV710BU",
@@ -163,107 +256,14 @@
       "duration": "3140"
     },
     {
-      "id": "youtube-JRLmgXK1XIQ",
-      "type": "video",
-      "title": "2 Out of 3 Bosses Won't Hire You Without AI Skills | Paragon AI MAG",
-      "url": "https://www.youtube.com/shorts/JRLmgXK1XIQ",
-      "publishedAt": "2026-11-07T12:19:41.000Z",
-      "summary": "Two out of three bosses won't hire you without AI skills. We ranked the 8 AI skills worth learning in 2026 — by evidence, not hype. Full video: https://youtu.be/fZKUkusks5A",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/JRLmgXK1XIQ/hqdefault.jpg",
-      "videoId": "JRLmgXK1XIQ"
-    },
-    {
-      "id": "redcircle-34485d70-0e7a-4f3b-8f2a-6d542a1cd874",
-      "type": "podcast",
-      "title": "NotebookLM Tutorial: 12 Things It Can Do",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/9d4a7998-fd4c-46bc-8ab0-2674b6b21eca",
-      "publishedAt": "2026-11-06T13:36:34.000Z",
-      "summary": "Paragon AI MAG — one video and one podcast episode every day, tracking revolutionary AI research. NotebookLM turns your own files into a podcast — and it only answers from what you…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/6/13/145becb7-1d9d-4b92-aa96-06c068d7db2d_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/9d4a7998-fd4c-46bc-8ab0-2674b6b21eca/stream.mp3",
-      "duration": "1612"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
+      "id": "substack-https://paragonaimag.substack.com/p/8-ai-skills-worth-learning-in-2026",
       "type": "article",
-      "title": "The Robot Got Knocked Down — and That Was the Lesson",
-      "url": "https://paragonaimag.substack.com/p/the-robot-got-knocked-down-and-that",
-      "publishedAt": "2026-11-03T04:31:36.000Z",
-      "summary": "The bell barely finishes ringing when the robot goes down. One clean punch, and a humanoid machine is flat on the canvas in front of a live crowd in Beijing. For a split second it looks…",
+      "title": "8 AI Skills Worth Learning in 2026 — Ranked by Real Usefulness",
+      "url": "https://paragonaimag.substack.com/p/8-ai-skills-worth-learning-in-2026",
+      "publishedAt": "2026-11-07T13:16:46.000Z",
+      "summary": "Series 1, Episode 5: “How the AI Tools You Use Actually Work” Two out of three bosses say they would not hire you without AI skills — and most would pick a less experienced person who has…",
       "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/DvQNj9oM6sc"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/why-chatgpt-makes-things-up-and-the",
-      "type": "article",
-      "title": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You",
-      "url": "https://paragonaimag.substack.com/p/why-chatgpt-makes-things-up-and-the",
-      "publishedAt": "2026-11-02T12:20:43.000Z",
-      "summary": "Why ChatGPT Makes Things Up — And the Fix Nobody Told You, from Paragon AI MAG. ChatGPT invented six court cases that never existed — and real lawyers filed them in a real court — and got…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/tI_02Sl3gHM"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/google-maps-ai-7-tricks-hidden-in",
-      "type": "article",
-      "title": "Google Maps AI: 7 Tricks Hidden in the App on Your Phone",
-      "url": "https://paragonaimag.substack.com/p/google-maps-ai-7-tricks-hidden-in",
-      "publishedAt": "2026-11-01T12:34:55.000Z",
-      "summary": "Welcome to today’s Paragon AI MAG. Your map app is not a map anymore — it is a prediction machine that reads millions of phones to guess where traffic will be before you get there. Today:…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9BuOVHxgcfk"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/your-ai-now-works-while-you-sleep",
-      "type": "article",
-      "title": "Your AI Now Works While You Sleep: Always-On Agents, Explained",
-      "url": "https://paragonaimag.substack.com/p/your-ai-now-works-while-you-sleep",
-      "publishedAt": "2026-10-31T16:16:44.000Z",
-      "summary": "Welcome to today’s edition of Paragon AI MAG. In autumn 2026, AI shifted decisively from reactive prompting to agents that work on their own. Today: OpenAI Dots, Anthropic Claude Duet and…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/f9-04mfO8vo"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/ai-can-now-hack-the-internet-and",
-      "type": "article",
-      "title": "AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today",
-      "url": "https://paragonaimag.substack.com/p/ai-can-now-hack-the-internet-and",
-      "publishedAt": "2026-10-30T13:35:49.000Z",
-      "summary": "30 October 2026. Every fact below is backed by sources and was checked several times before release, so it reaches you with the fewest errors and flaws. We never claim to be entirely…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/hUg3-eb-A3A"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/how-does-chatgpt-work-its-not-thinking",
-      "type": "article",
-      "title": "How Does ChatGPT Work? It’s Not Thinking — It’s Predicting",
-      "url": "https://paragonaimag.substack.com/p/how-does-chatgpt-work-its-not-thinking",
-      "publishedAt": "2026-10-30T07:44:21.000Z",
-      "summary": "When you read a ChatGPT answer, it feels like a mind at work. Sentences arrive shaped like reasoning. The impression is strong — and it is wrong. Under the interface there is no reasoning.…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/zWNakhjsUp0"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/claude-cracked-a-25-year-nsa-cryptography",
-      "type": "article",
-      "title": "Claude Cracked a 25-Year NSA Cryptography Mystery in Under 30 Minutes",
-      "url": "https://paragonaimag.substack.com/p/claude-cracked-a-25-year-nsa-cryptography",
-      "publishedAt": "2026-10-19T06:12:00.000Z",
-      "summary": "AI disclosure: this article was produced with AI assistance and reviewed for accuracy. Flag: 🟢 Cleared the bar — Anthropic published primary evidence anyone can rerun; multiple independent…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/deepseek-v41-flash-1017-cheaper-ai",
-      "type": "article",
-      "title": "DeepSeek V4.1-Flash-1017: Cheaper AI Agents, Bigger Claims — What We Can Actually Verify",
-      "url": "https://paragonaimag.substack.com/p/deepseek-v41-flash-1017-cheaper-ai",
-      "publishedAt": "2026-10-18T17:51:35.000Z",
-      "summary": "*AI disclosure: this article was produced with AI assistance and reviewed for accuracy.* # DeepSeek V4.1-Flash-1017: Cheaper AI Agents, Bigger Claims — What We Can Actually Verify **Flag:…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/fZKUkusks5A"
     }
   ]
 }
