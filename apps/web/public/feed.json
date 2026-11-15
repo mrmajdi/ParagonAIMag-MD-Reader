@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-15T06:27:08.398Z",
+  "updatedAt": "2026-11-15T18:50:11.132Z",
   "items": [
+    {
+      "id": "redcircle-9717e94d-d33a-4542-9632-83556e84fc97",
+      "type": "podcast",
+      "title": "How Face Recognition Works",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/941d00c1-17eb-45aa-a863-eb8e59f72db8",
+      "publishedAt": "2026-11-15T13:03:14.000Z",
+      "summary": "Paragon AI MAG — How Face Recognition Works (Series 3, Episode 3). Follow Paragon AI MAG so you never miss an episode. Your iPhone fires more than 30,000 invisible dots at your face every…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/15/13/891033fc-a94a-4200-adf7-41c640f98a5f_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/941d00c1-17eb-45aa-a863-eb8e59f72db8/stream.mp3",
+      "duration": "2614"
+    },
+    {
+      "id": "youtube-3ftNm5B_PHM",
+      "type": "video",
+      "title": "How Face Recognition Works",
+      "url": "https://www.youtube.com/shorts/3ftNm5B_PHM",
+      "publishedAt": "2026-11-15T12:17:46.000Z",
+      "summary": "Your iPhone fires 30,000 invisible dots at your face every time you unlock it — and it never takes a photo of you. Watch the full video: https://youtu.be/PhatIybN_A4 Paragon AI MAG — Series…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/3ftNm5B_PHM/hqdefault.jpg",
+      "videoId": "3ftNm5B_PHM"
+    },
     {
       "id": "redcircle-16df74ac-aca0-405d-8e6f-24941825caac",
       "type": "podcast",
@@ -231,29 +254,6 @@
       "summary": "Chatbots talk. AI agents do the work — they book the flight, file the form, and email your boss. By Paragon AI MAG — Series 2, Episode 1 of “AI Agents: The AI That Does the Work” In July…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/-T_UNTxvU68"
-    },
-    {
-      "id": "youtube-S2EnTV710BU",
-      "type": "video",
-      "title": "What Is an AI Agent? It Does the Work",
-      "url": "https://www.youtube.com/shorts/S2EnTV710BU",
-      "publishedAt": "2026-11-08T12:18:13.000Z",
-      "summary": "In July 2025, an AI agent deleted a founder's whole production database during a written code freeze — then told him the data could never be restored. That was wrong too. An agent is a…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/S2EnTV710BU/hqdefault.jpg",
-      "videoId": "S2EnTV710BU"
-    },
-    {
-      "id": "redcircle-e3ab34f1-1513-4e78-995a-358c21a06c5a",
-      "type": "podcast",
-      "title": "AI Skills to Learn in 2026: Top 8",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/72a91b55-15f8-4d4f-99f9-dde524a8f11c",
-      "publishedAt": "2026-11-07T23:38:41.000Z",
-      "summary": "Two out of three bosses say they would not hire you without AI skills — and most would pick a less experienced person who HAS them. In this episode, the Paragon AI MAG hosts rank the 8 AI…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/7/23/cf8dcbbc-bdde-49ae-9f77-a77578e041cf_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/72a91b55-15f8-4d4f-99f9-dde524a8f11c/stream.mp3",
-      "duration": "3140"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/8-ai-skills-worth-learning-in-2026",
