@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-16T06:25:22.505Z",
+  "updatedAt": "2026-11-16T21:59:57.418Z",
   "items": [
+    {
+      "id": "redcircle-67bc6fbb-3de5-4488-9887-d784133ce15c",
+      "type": "podcast",
+      "title": "How AI Detectors Work (Series 3, Episode 4)",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/08561585-65c1-4ee1-8903-c5d8f552f2cc",
+      "publishedAt": "2026-11-16T13:45:27.000Z",
+      "summary": "Paragon AI MAG — How AI Detectors Work (Series 3, Episode 4). Follow Paragon AI MAG so you never miss an episode. Seven popular AI detectors wrongly flagged more than half of the essays…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/16/13/3691ec01-972a-471e-a02e-66bc39664303_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/08561585-65c1-4ee1-8903-c5d8f552f2cc/stream.mp3",
+      "duration": "3734"
+    },
+    {
+      "id": "youtube-gy0i8mSx-fA",
+      "type": "video",
+      "title": "How AI Detectors Work",
+      "url": "https://www.youtube.com/shorts/gy0i8mSx-fA",
+      "publishedAt": "2026-11-16T12:22:16.000Z",
+      "summary": "How AI Detectors Work — Series 3, Episode 4. A student wrote his essay himself. Turnitin scored it 100% AI. A court threw it out. Detectors never watch you write — they guess from how…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/gy0i8mSx-fA/hqdefault.jpg",
+      "videoId": "gy0i8mSx-fA"
+    },
     {
       "id": "redcircle-9717e94d-d33a-4542-9632-83556e84fc97",
       "type": "podcast",
@@ -221,29 +244,6 @@
       "summary": "Paragon AI MAG, Series 2, Episode 2 — “AI Agents: The AI That Does the Work” OpenAI is shutting down Agent Builder — the drag-and-drop part of AgentKit for building agents inside ChatGPT —…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/yVZ06ecrDtc"
-    },
-    {
-      "id": "youtube-Ynb-5QTwKaI",
-      "type": "video",
-      "title": "Build Your First AI Agent",
-      "url": "https://www.youtube.com/shorts/Ynb-5QTwKaI",
-      "publishedAt": "2026-11-09T12:22:57.000Z",
-      "summary": "OpenAI is shutting down its drag-and-drop agent builder on November 30th. Build on tools you own, not tools a vendor can switch off. A first AI agent needs five things: one job, plain…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/Ynb-5QTwKaI/hqdefault.jpg",
-      "videoId": "Ynb-5QTwKaI"
-    },
-    {
-      "id": "redcircle-46820ff8-5366-4f52-8f5e-f2437d75ab7c",
-      "type": "podcast",
-      "title": "What Is an AI Agent? It Does the Work",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/c499d8c4-d9a7-4053-83fc-371dbd3f396f",
-      "publishedAt": "2026-11-08T14:22:27.000Z",
-      "summary": "Paragon AI MAG — the show that tracks revolutionary AI research and explains it in plain English. Follow Paragon AI MAG so you never miss an episode. In July 2025, an AI agent deleted a…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/8/14/ca2dcb84-3c8c-4a97-8f85-a97e332a2c01_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/c499d8c4-d9a7-4053-83fc-371dbd3f396f/stream.mp3",
-      "duration": "3467"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/what-is-an-ai-agent-it-does-the-work",
