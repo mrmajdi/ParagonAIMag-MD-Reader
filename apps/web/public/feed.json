@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:59:57.418Z",
+  "updatedAt": "2026-11-17T07:53:42.590Z",
   "items": [
     {
       "id": "redcircle-67bc6fbb-3de5-4488-9887-d784133ce15c",
@@ -12,6 +12,16 @@
       "image": "https://media.redcircle.com/images/2026/11/16/13/3691ec01-972a-471e-a02e-66bc39664303_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/08561585-65c1-4ee1-8903-c5d8f552f2cc/stream.mp3",
       "duration": "3734"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-ai-detectors-work",
+      "type": "article",
+      "title": "How AI Detectors Work",
+      "url": "https://paragonaimag.substack.com/p/how-ai-detectors-work",
+      "publishedAt": "2026-11-16T12:34:45.000Z",
+      "summary": "How AI Detectors Work (Series 3, Episode 4) Seven popular AI detectors wrongly flagged more than half of the essays written by real students learning English — 61 out of every 100. In the…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/RyvEyk0pdYs"
     },
     {
       "id": "youtube-gy0i8mSx-fA",
@@ -35,6 +45,16 @@
       "image": "https://media.redcircle.com/images/2026/11/15/13/891033fc-a94a-4200-adf7-41c640f98a5f_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/941d00c1-17eb-45aa-a863-eb8e59f72db8/stream.mp3",
       "duration": "2614"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-face-recognition-works-series",
+      "type": "article",
+      "title": "How Face Recognition Works (Series 3, Episode 3)",
+      "url": "https://paragonaimag.substack.com/p/how-face-recognition-works-series",
+      "publishedAt": "2026-11-15T12:27:29.000Z",
+      "summary": "Your phone fires 30,000 invisible dots at your face every time you unlock it — and it never takes a photo of you. In the third episode of our series \"How the AI Tools You Use Actually…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
     },
     {
       "id": "youtube-3ftNm5B_PHM",
@@ -244,26 +264,6 @@
       "summary": "Paragon AI MAG, Series 2, Episode 2 — “AI Agents: The AI That Does the Work” OpenAI is shutting down Agent Builder — the drag-and-drop part of AgentKit for building agents inside ChatGPT —…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/yVZ06ecrDtc"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/what-is-an-ai-agent-it-does-the-work",
-      "type": "article",
-      "title": "What Is an AI Agent? It Does the Work",
-      "url": "https://paragonaimag.substack.com/p/what-is-an-ai-agent-it-does-the-work",
-      "publishedAt": "2026-11-08T13:42:10.000Z",
-      "summary": "Chatbots talk. AI agents do the work — they book the flight, file the form, and email your boss. By Paragon AI MAG — Series 2, Episode 1 of “AI Agents: The AI That Does the Work” In July…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/-T_UNTxvU68"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/8-ai-skills-worth-learning-in-2026",
-      "type": "article",
-      "title": "8 AI Skills Worth Learning in 2026 — Ranked by Real Usefulness",
-      "url": "https://paragonaimag.substack.com/p/8-ai-skills-worth-learning-in-2026",
-      "publishedAt": "2026-11-07T13:16:46.000Z",
-      "summary": "Series 1, Episode 5: “How the AI Tools You Use Actually Work” Two out of three bosses say they would not hire you without AI skills — and most would pick a less experienced person who has…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/fZKUkusks5A"
     }
   ]
 }
