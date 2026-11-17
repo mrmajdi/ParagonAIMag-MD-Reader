@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-17T07:53:42.590Z",
+  "updatedAt": "2026-11-17T20:54:17.382Z",
   "items": [
+    {
+      "id": "redcircle-21886383-5b10-452d-89df-9cb5425e09b8",
+      "type": "podcast",
+      "title": "Why OpenAI Shut Down Sora (Series 3, Episode 5)",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3e55adb5-f3e5-4a82-bfd2-0b956f70a658",
+      "publishedAt": "2026-11-17T13:37:25.000Z",
+      "summary": "Paragon AI MAG — Why OpenAI Shut Down Sora (Series 3, Episode 5). Follow Paragon AI MAG so you never miss an episode. One AI video demo paused an $800 million studio expansion — and two…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/17/13/e2577185-bd50-4229-a334-d5325130e746_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/3e55adb5-f3e5-4a82-bfd2-0b956f70a658/stream.mp3",
+      "duration": "2773"
+    },
+    {
+      "id": "youtube-zsN7WtYe1pk",
+      "type": "video",
+      "title": "How AI Video Generation Works",
+      "url": "https://www.youtube.com/shorts/zsN7WtYe1pk",
+      "publishedAt": "2026-11-17T12:18:21.000Z",
+      "summary": "Watch the full video: https://youtu.be/Ew7yFjZX92w 🎧 Listen to the full deep-dive podcast episode: https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3e55adb5-f3e5-4a…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/zsN7WtYe1pk/hqdefault.jpg",
+      "videoId": "zsN7WtYe1pk"
+    },
     {
       "id": "redcircle-67bc6fbb-3de5-4488-9887-d784133ce15c",
       "type": "podcast",
@@ -231,29 +254,6 @@
       "summary": "Paragon AI MAG — Series 2, Episode 3 — 10 November 2026 In December 2024, Microsoft CEO Satya Nadella said business applications will \"collapse\" in the Agent Era. Today, in Series 2 Episode…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/np3HxidS4vg"
-    },
-    {
-      "id": "youtube-QlA-e8EDf4w",
-      "type": "video",
-      "title": "Will AI Replace Apps?",
-      "url": "https://www.youtube.com/shorts/QlA-e8EDf4w",
-      "publishedAt": "2026-11-10T12:17:16.000Z",
-      "summary": "Will AI replace apps? Microsoft CEO Satya Nadella says business apps will collapse in the Agent Era. The average company pays for 106 apps — 53% of licenses go unused in 30 days. Salesforce…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/QlA-e8EDf4w/hqdefault.jpg",
-      "videoId": "QlA-e8EDf4w"
-    },
-    {
-      "id": "redcircle-37bc10d4-0492-488f-8e55-fe133dcb3309",
-      "type": "podcast",
-      "title": "Build Your First AI Agent",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/21a63ce6-8302-4da1-880c-fc67441d2b58",
-      "publishedAt": "2026-11-09T12:53:17.000Z",
-      "summary": "Paragon AI MAG — Series 2, Episode 2: Build Your First AI Agent A new episode every day — made to fit your morning coffee or your drive. Follow Paragon AI MAG so you never miss an episode.…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/9/12/ac014faa-4002-4f77-8721-ee2705e377e3_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/21a63ce6-8302-4da1-880c-fc67441d2b58/stream.mp3",
-      "duration": "2835"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/build-your-first-ai-agent",
