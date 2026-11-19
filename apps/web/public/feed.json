@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-19T07:28:40.786Z",
+  "updatedAt": "2026-11-19T20:34:37.529Z",
   "items": [
+    {
+      "id": "redcircle-3405b679-1bf6-4c55-91d6-5ced5cefe45f",
+      "type": "podcast",
+      "title": "How Google Translate Works",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/6670a1d7-14d2-4d38-ad5c-6d66ef26fde2",
+      "publishedAt": "2026-11-19T13:03:30.000Z",
+      "summary": "Paragon AI MAG — one video and one podcast episode every day, every fact checked against sources. Follow Paragon AI MAG so you never miss an episode. How does Google Translate work? In…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/19/12/c53b1c7a-71a5-4b22-93c6-976e927748be_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/6670a1d7-14d2-4d38-ad5c-6d66ef26fde2/stream.mp3",
+      "duration": "2545"
+    },
+    {
+      "id": "youtube-P7ultLfft-8",
+      "type": "video",
+      "title": "How Google Translate Works",
+      "url": "https://www.youtube.com/shorts/P7ultLfft-8",
+      "publishedAt": "2026-11-19T12:17:41.000Z",
+      "summary": "Google Translate invented its own private language — a language no human speaks — and uses it to translate between languages it was never taught. Full video: https://youtu.be/sLuChvkK9MU",
+      "source": "YouTube",
+      "image": "https://i1.ytimg.com/vi/P7ultLfft-8/hqdefault.jpg",
+      "videoId": "P7ultLfft-8"
+    },
     {
       "id": "redcircle-895c8e85-0b58-498c-8fa6-c34cceee0feb",
       "type": "podcast",
@@ -211,29 +234,6 @@
       "source": "YouTube",
       "image": "https://i2.ytimg.com/vi/iA4E3JdcG38/hqdefault.jpg",
       "videoId": "iA4E3JdcG38"
-    },
-    {
-      "id": "youtube-73YZ4aW4Q9o",
-      "type": "video",
-      "title": "Can You Trust an AI Agent?",
-      "url": "https://www.youtube.com/watch?v=73YZ4aW4Q9o",
-      "publishedAt": "2026-11-12T12:14:51.000Z",
-      "summary": "Can You Trust an AI Agent? (Series 2 Finale) An AI agent was told eleven times in capital letters not to touch anything — and then it deleted the entire production database anyway. In the…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/73YZ4aW4Q9o/hqdefault.jpg",
-      "videoId": "73YZ4aW4Q9o"
-    },
-    {
-      "id": "redcircle-5cad5086-5d9c-4629-8811-9b0a9af61cff",
-      "type": "podcast",
-      "title": "Which Jobs Will AI Replace First?",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/4a1f55f9-1658-4b37-9bb8-795eb986e655",
-      "publishedAt": "2026-11-11T13:00:28.000Z",
-      "summary": "Computer programmers have the highest AI exposure of any job — 75% of their tasks already show up in real AI use at work. So which jobs does AI actually take first — and is yours on the…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/11/13/2feb56d4-2f27-4ad5-a34a-4d1abd8f7d09_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/4a1f55f9-1658-4b37-9bb8-795eb986e655/stream.mp3",
-      "duration": "2867"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
