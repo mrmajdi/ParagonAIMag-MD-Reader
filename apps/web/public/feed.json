@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-18T07:25:40.555Z",
+  "updatedAt": "2026-11-19T07:28:40.786Z",
   "items": [
+    {
+      "id": "redcircle-895c8e85-0b58-498c-8fa6-c34cceee0feb",
+      "type": "podcast",
+      "title": "How AI Music Generation Works — Paragon AI MAG",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/96432276-9597-421b-b3c2-75dd6d82948f",
+      "publishedAt": "2026-11-19T00:06:39.000Z",
+      "summary": "Paragon AI MAG — a daily AI magazine. Follow Paragon AI MAG so you never miss an episode. A band that does not exist reached 1.4 million monthly listeners on Spotify. In this episode we go…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/19/0/663e3b28-a08e-431d-a917-1abf32706658_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/96432276-9597-421b-b3c2-75dd6d82948f/stream.mp3",
+      "duration": "2533"
+    },
+    {
+      "id": "youtube-q7blliYggnk",
+      "type": "video",
+      "title": "How AI Music Generation Works",
+      "url": "https://www.youtube.com/shorts/q7blliYggnk",
+      "publishedAt": "2026-11-18T12:20:00.000Z",
+      "summary": "A band that does not exist got 1.4 million Spotify listeners before anyone knew it was AI. Here is what happens inside the machine when you type a song. Full video:…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/q7blliYggnk/hqdefault.jpg",
+      "videoId": "q7blliYggnk"
+    },
     {
       "id": "redcircle-21886383-5b10-452d-89df-9cb5425e09b8",
       "type": "podcast",
@@ -221,29 +244,6 @@
       "summary": "Computer programmers have the highest AI exposure of any job — 75% of their tasks already show up in real AI use at work. That is the opening fact of today's Paragon AI MAG video, \"Which…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/YGcBWtUC3XU"
-    },
-    {
-      "id": "youtube-hinjR9HXJ44",
-      "type": "video",
-      "title": "Which Jobs Will AI Replace First?",
-      "url": "https://www.youtube.com/shorts/hinjR9HXJ44",
-      "publishedAt": "2026-11-11T12:18:17.000Z",
-      "summary": "The people who BUILD AI are the ones most exposed to it — computer programmers: 75% of their tasks already show up in real AI use at work. Which jobs go first? Watch the full video:…",
-      "source": "YouTube",
-      "image": "https://i1.ytimg.com/vi/hinjR9HXJ44/hqdefault.jpg",
-      "videoId": "hinjR9HXJ44"
-    },
-    {
-      "id": "redcircle-6cddd1f5-178d-4ce0-90d2-36bd603151a4",
-      "type": "podcast",
-      "title": "Will AI Replace Apps? — Paragon AI MAG, Series 2 Episode 3",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/c9ad608d-89bf-4d0f-88e5-71f635ef6666",
-      "publishedAt": "2026-11-10T14:05:58.000Z",
-      "summary": "Will AI replace apps? The Microsoft CEO's prediction, explained simply — Paragon AI MAG, Series 2 Episode 3. Follow Paragon AI MAG so you never miss an episode. In December 2024, Microsoft…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/10/14/97caef1d-bed8-4c92-af3a-9754577e26d7_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/c9ad608d-89bf-4d0f-88e5-71f635ef6666/stream.mp3",
-      "duration": "2548"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/will-ai-replace-apps-the-real-mechanism",
