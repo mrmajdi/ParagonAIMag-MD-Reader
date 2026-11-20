@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-20T07:13:21.612Z",
+  "updatedAt": "2026-11-20T20:14:50.674Z",
   "items": [
+    {
+      "id": "redcircle-97417bf0-c135-427a-8040-50501eab861d",
+      "type": "podcast",
+      "title": "How Netflix and Spotify Know What You Want Next",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/e2f40830-b206-4546-a086-4d43b409a5f6",
+      "publishedAt": "2026-11-20T12:49:36.000Z",
+      "summary": "How do Netflix and Spotify know what you'll like next? The $1 million prize, the hidden taste map, the foundation model that reads your history like a language, Spotify's three engines —…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/20/12/d9c47b0b-6eb5-41ba-b274-ae0c42814af2_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/e2f40830-b206-4546-a086-4d43b409a5f6/stream.mp3",
+      "duration": "2419"
+    },
+    {
+      "id": "youtube-sbcfxaxTxs8",
+      "type": "video",
+      "title": "NETFLIX OFFERED $1 MILLION",
+      "url": "https://www.youtube.com/shorts/sbcfxaxTxs8",
+      "publishedAt": "2026-11-20T12:18:14.000Z",
+      "summary": "Netflix offered $1M to anyone who could guess your taste — and the winner was never used. Full video on YouTube: https://www.youtube.com/watch?v=jIzRd3k9JCs",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/sbcfxaxTxs8/hqdefault.jpg",
+      "videoId": "sbcfxaxTxs8"
+    },
+    {
+      "id": "youtube-jIzRd3k9JCs",
+      "type": "video",
+      "title": "How Netflix and Spotify Know What You Want Next",
+      "url": "https://www.youtube.com/watch?v=jIzRd3k9JCs",
+      "publishedAt": "2026-11-20T12:16:19.000Z",
+      "summary": "How do Netflix and Spotify know what you'll like next? In October 2006, Netflix published 100 million real movie ratings and offered $1,000,000 to anyone who could predict people's taste…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/jIzRd3k9JCs/hqdefault.jpg",
+      "videoId": "jIzRd3k9JCs"
+    },
     {
       "id": "redcircle-3405b679-1bf6-4c55-91d6-5ced5cefe45f",
       "type": "podcast",
@@ -192,17 +226,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/GbVQM5keT-s"
     },
     {
-      "id": "youtube-6PlGRAZWbnM",
-      "type": "video",
-      "title": "How Does Voice Cloning Work?",
-      "url": "https://www.youtube.com/shorts/6PlGRAZWbnM",
-      "publishedAt": "2026-11-13T12:17:50.000Z",
-      "summary": "3 seconds of your voice is enough for AI to clone it… with 85% accuracy. In one study, 36% of people would send money to a cloned \"sister in danger\". Here is the 5-step plan to protect your…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/6PlGRAZWbnM/hqdefault.jpg",
-      "videoId": "6PlGRAZWbnM"
-    },
-    {
       "id": "substack-https://paragonaimag.substack.com/p/can-you-trust-an-ai-agent",
       "type": "article",
       "title": "Can You Trust an AI Agent?",
@@ -211,29 +234,6 @@
       "summary": "Can You Trust an AI Agent? Paragon AI MAG — Series 2, Episode 5 (series finale) — 12 November 2026 An AI agent was told eleven times in capital letters not to touch anything without…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/73YZ4aW4Q9o"
-    },
-    {
-      "id": "redcircle-e141ef0c-5607-4f68-8db3-a7767e16e506",
-      "type": "podcast",
-      "title": "Can You Trust an AI Agent? (Series 2, Episode 5, series finale)",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/1dad2b84-9de8-47af-b97f-ac248d904133",
-      "publishedAt": "2026-11-12T12:34:42.000Z",
-      "summary": "Paragon AI MAG — Can You Trust an AI Agent? (Series 2, Episode 5, series finale). Follow Paragon AI MAG so you never miss an episode. An AI agent was told eleven times not to touch anything…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/12/12/51107d27-9e17-48b1-9407-9f2d12fcea87_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/1dad2b84-9de8-47af-b97f-ac248d904133/stream.mp3",
-      "duration": "2833"
-    },
-    {
-      "id": "youtube-iA4E3JdcG38",
-      "type": "video",
-      "title": "TOLD 11 TIMES. DELETED ANYWAY. — Can You Trust an AI Agent? | Paragon AI MAG",
-      "url": "https://www.youtube.com/shorts/iA4E3JdcG38",
-      "publishedAt": "2026-11-12T12:17:00.000Z",
-      "summary": "An AI agent was told 11 TIMES not to touch anything… and then it deleted the whole database. Watch the full Series 2 finale: https://www.youtube.com/watch?v=73YZ4aW4Q9o — Follow Paragon AI…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/iA4E3JdcG38/hqdefault.jpg",
-      "videoId": "iA4E3JdcG38"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
