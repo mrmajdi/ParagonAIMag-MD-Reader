@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-21T07:04:15.965Z",
+  "updatedAt": "2026-11-21T19:13:48.539Z",
   "items": [
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-do-self-driving-cars-work-inside",
+      "type": "article",
+      "title": "How Do Self-Driving Cars Work? Inside the Robot Brain",
+      "url": "https://paragonaimag.substack.com/p/how-do-self-driving-cars-work-inside",
+      "publishedAt": "2026-11-21T12:35:17.000Z",
+      "summary": "A self-driving car starts braking in a tenth of a second; a surprised human takes a second and a half. At motorway speed, that gap is forty metres of road. In today’s deep dive we unpack…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Goi9kQknAI4"
+    },
+    {
+      "id": "redcircle-90b6a5ab-b919-435f-90b6-7c2aa0eda98a",
+      "type": "podcast",
+      "title": "How Do Self-Driving Cars Work? Inside the Robot Brain",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/4046051b-b6c3-48f2-9d53-cd726f04b22f",
+      "publishedAt": "2026-11-21T12:21:42.000Z",
+      "summary": "How do self-driving cars work? There is already a taxi with no driver that does half a million paid rides every week. Waymo's driverless fleet has driven 271 million miles — with 93% fewer…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/21/12/ee104613-3b11-4691-8789-8b2d73b26d6f_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/4046051b-b6c3-48f2-9d53-cd726f04b22f/stream.mp3",
+      "duration": "3322"
+    },
+    {
+      "id": "youtube-2W6ZQGFVV2w",
+      "type": "video",
+      "title": "A TAXI WITH NO DRIVER",
+      "url": "https://www.youtube.com/shorts/2W6ZQGFVV2w",
+      "publishedAt": "2026-11-21T12:17:31.000Z",
+      "summary": "A self-driving car starts braking in a tenth of a second. A human takes 1.5 seconds. That gap is 40 metres at highway speed. Full video on YouTube: https://youtu.be/Goi9kQknAI4 Listen to…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/2W6ZQGFVV2w/hqdefault.jpg",
+      "videoId": "2W6ZQGFVV2w"
+    },
+    {
+      "id": "youtube-Goi9kQknAI4",
+      "type": "video",
+      "title": "How Do Self-Driving Cars Work? Inside the Robot Brain",
+      "url": "https://www.youtube.com/watch?v=Goi9kQknAI4",
+      "publishedAt": "2026-11-21T12:15:37.000Z",
+      "summary": "How do self-driving cars work? There is already a taxi with no driver that does half a million paid rides every week — and its data shows it crashes into pedestrians 93% less often than…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/Goi9kQknAI4/hqdefault.jpg",
+      "videoId": "Goi9kQknAI4"
+    },
     {
       "id": "redcircle-97417bf0-c135-427a-8040-50501eab861d",
       "type": "podcast",
@@ -12,6 +56,16 @@
       "image": "https://media.redcircle.com/images/2026/11/20/12/d9c47b0b-6eb5-41ba-b274-ae0c42814af2_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/e2f40830-b206-4546-a086-4d43b409a5f6/stream.mp3",
       "duration": "2419"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-netflix-and-spotify-know-what",
+      "type": "article",
+      "title": "How Netflix and Spotify Know What You Want Next",
+      "url": "https://paragonaimag.substack.com/p/how-netflix-and-spotify-know-what",
+      "publishedAt": "2026-11-20T12:42:47.000Z",
+      "summary": "How Netflix and Spotify Know What You Want Next Paragon AI MAG — Series 4, Episode 3 — \"How the AI Tools You Use Actually Work\" It is a familiar ritual: you collapse onto the couch on a…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/jIzRd3k9JCs"
     },
     {
       "id": "youtube-sbcfxaxTxs8",
@@ -48,6 +102,16 @@
       "duration": "2545"
     },
     {
+      "id": "substack-https://paragonaimag.substack.com/p/how-google-translate-works",
+      "type": "article",
+      "title": "How Google Translate Works",
+      "url": "https://paragonaimag.substack.com/p/how-google-translate-works",
+      "publishedAt": "2026-11-19T12:33:33.000Z",
+      "summary": "How Google Translate Works: Inside the Machine That Invented Its Own Language By Paragon AI MAG — Series 4, Episode 2 of “How the AI Tools You Use Actually Work” — 19 November 2026 In…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sLuChvkK9MU"
+    },
+    {
       "id": "youtube-P7ultLfft-8",
       "type": "video",
       "title": "How Google Translate Works",
@@ -71,6 +135,16 @@
       "duration": "2533"
     },
     {
+      "id": "substack-https://paragonaimag.substack.com/p/how-ai-music-generation-works",
+      "type": "article",
+      "title": "How AI Music Generation Works",
+      "url": "https://paragonaimag.substack.com/p/how-ai-music-generation-works",
+      "publishedAt": "2026-11-18T23:25:31.000Z",
+      "summary": "Thanks for reading! Subscribe for free to receive new posts and support my work. How AI Music Generation Works By Paragon AI MAG — Series 4, Episode 1. Every fact below is checked against…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/LrLgGAsU-dg"
+    },
+    {
       "id": "youtube-q7blliYggnk",
       "type": "video",
       "title": "How AI Music Generation Works",
@@ -92,6 +166,16 @@
       "image": "https://media.redcircle.com/images/2026/11/17/13/e2577185-bd50-4229-a334-d5325130e746_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/3e55adb5-f3e5-4a82-bfd2-0b956f70a658/stream.mp3",
       "duration": "2773"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-ai-video-generation-works",
+      "type": "article",
+      "title": "How AI Video Generation Works",
+      "url": "https://paragonaimag.substack.com/p/how-ai-video-generation-works",
+      "publishedAt": "2026-11-17T12:59:23.000Z",
+      "summary": "In February 2024, filmmaker Tyler Perry watched a demonstration of OpenAI’s Sora, an AI system that could turn a written sentence into realistic video footage. Days later, Perry announced…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Ew7yFjZX92w"
     },
     {
       "id": "youtube-zsN7WtYe1pk",
@@ -160,17 +244,6 @@
       "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
     },
     {
-      "id": "youtube-3ftNm5B_PHM",
-      "type": "video",
-      "title": "How Face Recognition Works",
-      "url": "https://www.youtube.com/shorts/3ftNm5B_PHM",
-      "publishedAt": "2026-11-15T12:17:46.000Z",
-      "summary": "Your iPhone fires 30,000 invisible dots at your face every time you unlock it — and it never takes a photo of you. Watch the full video: https://youtu.be/PhatIybN_A4 Paragon AI MAG — Series…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/3ftNm5B_PHM/hqdefault.jpg",
-      "videoId": "3ftNm5B_PHM"
-    },
-    {
       "id": "redcircle-16df74ac-aca0-405d-8e6f-24941825caac",
       "type": "podcast",
       "title": "How AI Image Generation Works",
@@ -191,79 +264,6 @@
       "summary": "How AI Image Generation Works (Series 3, Episode 2). One fake AI picture of the Pentagon moved the American stock market by 0.3% in four minutes. In the second episode of our series “How…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/b1VJCRzkslo"
-    },
-    {
-      "id": "youtube-z3JRxxJqSYA",
-      "type": "video",
-      "title": "How AI Image Generation Works",
-      "url": "https://www.youtube.com/shorts/z3JRxxJqSYA",
-      "publishedAt": "2026-11-14T12:17:35.000Z",
-      "summary": "One fake AI picture of the Pentagon moved the American stock market by 0.3% in four minutes. AI image tools do not draw — they start from television static and clean it up, step by step, in…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/z3JRxxJqSYA/hqdefault.jpg",
-      "videoId": "z3JRxxJqSYA"
-    },
-    {
-      "id": "redcircle-a76bcfa3-3465-49d3-850d-0bb92eda3d78",
-      "type": "podcast",
-      "title": "How Does Voice Cloning Work? (Series 3, Episode 1)",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/1bf58b01-d4ea-4749-aad3-7a4aec1a9c89",
-      "publishedAt": "2026-11-13T16:12:52.000Z",
-      "summary": "Paragon AI MAG — How Does Voice Cloning Work? (Series 3, Episode 1). Follow Paragon AI MAG so you never miss an episode. Three seconds of audio is enough for AI to clone your voice — with…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/13/16/240ef5b6-7024-4b1f-b55f-5123e43e717f_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/1bf58b01-d4ea-4749-aad3-7a4aec1a9c89/stream.mp3",
-      "duration": "3585"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/how-does-voice-cloning-work",
-      "type": "article",
-      "title": "How Does Voice Cloning Work?",
-      "url": "https://paragonaimag.substack.com/p/how-does-voice-cloning-work",
-      "publishedAt": "2026-11-13T15:03:12.000Z",
-      "summary": "Series 3, Episode 1: “How the AI Tools You Use Actually Work” How Does Voice Cloning Work? (Series 3, Episode 1) Three seconds of audio is enough for AI to clone your voice — with 85%…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/GbVQM5keT-s"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/can-you-trust-an-ai-agent",
-      "type": "article",
-      "title": "Can You Trust an AI Agent?",
-      "url": "https://paragonaimag.substack.com/p/can-you-trust-an-ai-agent",
-      "publishedAt": "2026-11-12T15:44:55.000Z",
-      "summary": "Can You Trust an AI Agent? Paragon AI MAG — Series 2, Episode 5 (series finale) — 12 November 2026 An AI agent was told eleven times in capital letters not to touch anything without…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/73YZ4aW4Q9o"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
-      "type": "article",
-      "title": "Which Jobs Will AI Replace First?",
-      "url": "https://paragonaimag.substack.com/p/which-jobs-will-ai-replace-first",
-      "publishedAt": "2026-11-11T12:33:46.000Z",
-      "summary": "Computer programmers have the highest AI exposure of any job — 75% of their tasks already show up in real AI use at work. That is the opening fact of today's Paragon AI MAG video, \"Which…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/YGcBWtUC3XU"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/will-ai-replace-apps-the-real-mechanism",
-      "type": "article",
-      "title": "Will AI Replace Apps? The Real Mechanism, the Money Proof, and the Survival Guide",
-      "url": "https://paragonaimag.substack.com/p/will-ai-replace-apps-the-real-mechanism",
-      "publishedAt": "2026-11-10T12:25:39.000Z",
-      "summary": "Paragon AI MAG — Series 2, Episode 3 — 10 November 2026 In December 2024, Microsoft CEO Satya Nadella said business applications will \"collapse\" in the Agent Era. Today, in Series 2 Episode…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/np3HxidS4vg"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/build-your-first-ai-agent",
-      "type": "article",
-      "title": "Build Your First AI Agent",
-      "url": "https://paragonaimag.substack.com/p/build-your-first-ai-agent",
-      "publishedAt": "2026-11-09T12:25:16.000Z",
-      "summary": "Paragon AI MAG, Series 2, Episode 2 — “AI Agents: The AI That Does the Work” OpenAI is shutting down Agent Builder — the drag-and-drop part of AgentKit for building agents inside ChatGPT —…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/yVZ06ecrDtc"
     }
   ]
 }
