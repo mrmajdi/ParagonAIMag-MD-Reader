@@ -1,6 +1,107 @@
 {
-  "updatedAt": "2026-11-22T06:45:27.358Z",
+  "updatedAt": "2026-11-24T22:25:36.673Z",
   "items": [
+    {
+      "id": "redcircle-5a59d346-1bb5-45a4-b99c-319ee07ee42b",
+      "type": "podcast",
+      "title": "Will AI Take Your Job? What the Data Actually Says",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/0222f3eb-e982-461d-892a-c5e08918afd5",
+      "publishedAt": "2026-11-24T15:40:26.000Z",
+      "summary": "Paragon AI MAG — Series 5, \"AI, Your Job and Your Money\", Episode 2. Follow Paragon AI MAG so you never miss an episode. Will AI take your job? A video claiming only 5 jobs will survive by…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/24/15/ee1dcf17-9644-4e85-b740-c5c8ba7dea48_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/0222f3eb-e982-461d-892a-c5e08918afd5/stream.mp3",
+      "duration": "2432"
+    },
+    {
+      "id": "youtube-G0L3PrnlQGM",
+      "type": "video",
+      "title": "5 JOBS LEFT? DATA SAYS NO.",
+      "url": "https://www.youtube.com/shorts/G0L3PrnlQGM",
+      "publishedAt": "2026-11-24T12:17:57.000Z",
+      "summary": "A video saying only 5 jobs survive by 2030 has 25 million views. The data says no — US unemployment is 4.1%, with 165,000 jobs added in October. But young workers in AI-exposed jobs are 19%…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/G0L3PrnlQGM/hqdefault.jpg",
+      "videoId": "G0L3PrnlQGM"
+    },
+    {
+      "id": "youtube-K8OS2ddAobs",
+      "type": "video",
+      "title": "Will AI Take Your Job? What the Data Actually Says",
+      "url": "https://www.youtube.com/watch?v=K8OS2ddAobs",
+      "publishedAt": "2026-11-24T12:16:24.000Z",
+      "summary": "will AI take my job? A video claiming only 5 jobs will survive by 2030 has 25 million views. But what does the actual data say? In this episode we check the numbers behind the fear. We look…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/K8OS2ddAobs/hqdefault.jpg",
+      "videoId": "K8OS2ddAobs"
+    },
+    {
+      "id": "redcircle-4e7702d4-a243-4536-be68-ced782c9003f",
+      "type": "podcast",
+      "title": "How to Make Money with AI — What Actually Works in 2026",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/db0f23f5-ca58-4363-8f40-56120f7ae29f",
+      "publishedAt": "2026-11-23T12:22:23.000Z",
+      "summary": "Paragon AI MAG — one video and one podcast episode every day. Follow Paragon AI MAG so you never miss an episode. How to make money with AI — what actually works in 2026? A video promising…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/23/12/0d562a54-5566-405b-acc9-a02fc2b7947d_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/db0f23f5-ca58-4363-8f40-56120f7ae29f/stream.mp3",
+      "duration": "3700"
+    },
+    {
+      "id": "youtube-YkeB2KVgq-Q",
+      "type": "video",
+      "title": "10.6M VIEWS. $0 EARNED.",
+      "url": "https://www.youtube.com/shorts/YkeB2KVgq-Q",
+      "publishedAt": "2026-11-23T12:16:44.000Z",
+      "summary": "10.6 million views. $0 earned. Of 257 new faceless AI channels, the typical one made zero dollars a month — and none reached even half of the $30,000 the gurus promise. The real way to earn…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/YkeB2KVgq-Q/hqdefault.jpg",
+      "videoId": "YkeB2KVgq-Q"
+    },
+    {
+      "id": "youtube-oYYdNMi105k",
+      "type": "video",
+      "title": "How to Make Money with AI — What Actually Works in 2026",
+      "url": "https://www.youtube.com/watch?v=oYYdNMi105k",
+      "publishedAt": "2026-11-23T12:15:18.000Z",
+      "summary": "how to make money with AI — what actually works in 2026? A video promising the \"laziest way to make money with AI\" has over 10.6 million views, yet the typical person who tried it made zero…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/oYYdNMi105k/hqdefault.jpg",
+      "videoId": "oYYdNMi105k"
+    },
+    {
+      "id": "redcircle-7c7b36f0-34d0-414d-844a-e76f485b8eca",
+      "type": "podcast",
+      "title": "How AI Search Works — And Why Nobody Clicks Anymore",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/a563295e-c2be-4998-a6dc-29387fb7a958",
+      "publishedAt": "2026-11-22T12:56:45.000Z",
+      "summary": "How does AI search work — and why does nobody click anymore? More than two in three Google searches in the US now end with nobody clicking anything. Google's AI Overviews reach over 2.5…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/22/12/625d8dae-c7a7-48f4-a3ab-0afbbfd14c63_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/a563295e-c2be-4998-a6dc-29387fb7a958/stream.mp3",
+      "duration": "1556"
+    },
+    {
+      "id": "substack-https://paragonaimag.substack.com/p/how-ai-search-works-and-why-nobody",
+      "type": "article",
+      "title": "How AI Search Works — And Why Nobody Clicks Anymore",
+      "url": "https://paragonaimag.substack.com/p/how-ai-search-works-and-why-nobody",
+      "publishedAt": "2026-11-22T12:30:57.000Z",
+      "summary": "More than two in three US Google searches now end on the results page, with nobody clicking anything. In today’s deep dive we unpack the machine behind it: the five-step pipeline of crawl,…",
+      "source": "Substack",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/QyStmo6Apk0"
+    },
+    {
+      "id": "youtube-A4AM81YkQQw",
+      "type": "video",
+      "title": "How AI Search Works — And Why Nobody Clicks Anymore",
+      "url": "https://www.youtube.com/shorts/A4AM81YkQQw",
+      "publishedAt": "2026-11-22T12:17:47.000Z",
+      "summary": "More than two in three Google searches now end with nobody clicking anything. AI search reads the web for you — but over 60% of its answers were wrong in the biggest independent test. Full…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/A4AM81YkQQw/hqdefault.jpg",
+      "videoId": "A4AM81YkQQw"
+    },
     {
       "id": "substack-https://paragonaimag.substack.com/p/how-do-self-driving-cars-work-inside",
       "type": "article",
@@ -79,17 +180,6 @@
       "videoId": "sbcfxaxTxs8"
     },
     {
-      "id": "youtube-jIzRd3k9JCs",
-      "type": "video",
-      "title": "How Netflix and Spotify Know What You Want Next",
-      "url": "https://www.youtube.com/watch?v=jIzRd3k9JCs",
-      "publishedAt": "2026-11-20T12:16:19.000Z",
-      "summary": "How do Netflix and Spotify know what you'll like next? In October 2006, Netflix published 100 million real movie ratings and offered $1,000,000 to anyone who could predict people's taste…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/jIzRd3k9JCs/hqdefault.jpg",
-      "videoId": "jIzRd3k9JCs"
-    },
-    {
       "id": "redcircle-3405b679-1bf6-4c55-91d6-5ced5cefe45f",
       "type": "podcast",
       "title": "How Google Translate Works",
@@ -110,17 +200,6 @@
       "summary": "How Google Translate Works: Inside the Machine That Invented Its Own Language By Paragon AI MAG — Series 4, Episode 2 of “How the AI Tools You Use Actually Work” — 19 November 2026 In…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sLuChvkK9MU"
-    },
-    {
-      "id": "youtube-P7ultLfft-8",
-      "type": "video",
-      "title": "How Google Translate Works",
-      "url": "https://www.youtube.com/shorts/P7ultLfft-8",
-      "publishedAt": "2026-11-19T12:17:41.000Z",
-      "summary": "Google Translate invented its own private language — a language no human speaks — and uses it to translate between languages it was never taught. Full video: https://youtu.be/sLuChvkK9MU",
-      "source": "YouTube",
-      "image": "https://i1.ytimg.com/vi/P7ultLfft-8/hqdefault.jpg",
-      "videoId": "P7ultLfft-8"
     },
     {
       "id": "redcircle-895c8e85-0b58-498c-8fa6-c34cceee0feb",
@@ -145,17 +224,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/LrLgGAsU-dg"
     },
     {
-      "id": "youtube-q7blliYggnk",
-      "type": "video",
-      "title": "How AI Music Generation Works",
-      "url": "https://www.youtube.com/shorts/q7blliYggnk",
-      "publishedAt": "2026-11-18T12:20:00.000Z",
-      "summary": "A band that does not exist got 1.4 million Spotify listeners before anyone knew it was AI. Here is what happens inside the machine when you type a song. Full video:…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/q7blliYggnk/hqdefault.jpg",
-      "videoId": "q7blliYggnk"
-    },
-    {
       "id": "redcircle-21886383-5b10-452d-89df-9cb5425e09b8",
       "type": "podcast",
       "title": "Why OpenAI Shut Down Sora (Series 3, Episode 5)",
@@ -178,29 +246,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Ew7yFjZX92w"
     },
     {
-      "id": "youtube-zsN7WtYe1pk",
-      "type": "video",
-      "title": "How AI Video Generation Works",
-      "url": "https://www.youtube.com/shorts/zsN7WtYe1pk",
-      "publishedAt": "2026-11-17T12:18:21.000Z",
-      "summary": "Watch the full video: https://youtu.be/Ew7yFjZX92w 🎧 Listen to the full deep-dive podcast episode: https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3e55adb5-f3e5-4a…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/zsN7WtYe1pk/hqdefault.jpg",
-      "videoId": "zsN7WtYe1pk"
-    },
-    {
-      "id": "redcircle-67bc6fbb-3de5-4488-9887-d784133ce15c",
-      "type": "podcast",
-      "title": "How AI Detectors Work (Series 3, Episode 4)",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/08561585-65c1-4ee1-8903-c5d8f552f2cc",
-      "publishedAt": "2026-11-16T13:45:27.000Z",
-      "summary": "Paragon AI MAG — How AI Detectors Work (Series 3, Episode 4). Follow Paragon AI MAG so you never miss an episode. Seven popular AI detectors wrongly flagged more than half of the essays…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/16/13/3691ec01-972a-471e-a02e-66bc39664303_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/08561585-65c1-4ee1-8903-c5d8f552f2cc/stream.mp3",
-      "duration": "3734"
-    },
-    {
       "id": "substack-https://paragonaimag.substack.com/p/how-ai-detectors-work",
       "type": "article",
       "title": "How AI Detectors Work",
@@ -211,29 +256,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/RyvEyk0pdYs"
     },
     {
-      "id": "youtube-gy0i8mSx-fA",
-      "type": "video",
-      "title": "How AI Detectors Work",
-      "url": "https://www.youtube.com/shorts/gy0i8mSx-fA",
-      "publishedAt": "2026-11-16T12:22:16.000Z",
-      "summary": "How AI Detectors Work — Series 3, Episode 4. A student wrote his essay himself. Turnitin scored it 100% AI. A court threw it out. Detectors never watch you write — they guess from how…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/gy0i8mSx-fA/hqdefault.jpg",
-      "videoId": "gy0i8mSx-fA"
-    },
-    {
-      "id": "redcircle-9717e94d-d33a-4542-9632-83556e84fc97",
-      "type": "podcast",
-      "title": "How Face Recognition Works",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/941d00c1-17eb-45aa-a863-eb8e59f72db8",
-      "publishedAt": "2026-11-15T13:03:14.000Z",
-      "summary": "Paragon AI MAG — How Face Recognition Works (Series 3, Episode 3). Follow Paragon AI MAG so you never miss an episode. Your iPhone fires more than 30,000 invisible dots at your face every…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/15/13/891033fc-a94a-4200-adf7-41c640f98a5f_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/941d00c1-17eb-45aa-a863-eb8e59f72db8/stream.mp3",
-      "duration": "2614"
-    },
-    {
       "id": "substack-https://paragonaimag.substack.com/p/how-face-recognition-works-series",
       "type": "article",
       "title": "How Face Recognition Works (Series 3, Episode 3)",
@@ -242,28 +264,6 @@
       "summary": "Your phone fires 30,000 invisible dots at your face every time you unlock it — and it never takes a photo of you. In the third episode of our series \"How the AI Tools You Use Actually…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/fetch/$s_!k3hb!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fe2582c-2ebe-4e9a-b043-ad8ecaf3893d_400x400.png"
-    },
-    {
-      "id": "redcircle-16df74ac-aca0-405d-8e6f-24941825caac",
-      "type": "podcast",
-      "title": "How AI Image Generation Works",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/ed2407d9-3bdd-436c-b1c1-5cda2c684d10",
-      "publishedAt": "2026-11-14T13:07:54.000Z",
-      "summary": "Paragon AI MAG — How AI Image Generation Works (Series 3, Episode 2). Follow Paragon AI MAG so you never miss an episode. One fake AI picture of the Pentagon moved the American stock market…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/14/13/fc329511-1909-47e2-adec-168091ad80cd_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/ed2407d9-3bdd-436c-b1c1-5cda2c684d10/stream.mp3",
-      "duration": "3853"
-    },
-    {
-      "id": "substack-https://paragonaimag.substack.com/p/how-ai-image-generation-works",
-      "type": "article",
-      "title": "How AI Image Generation Works",
-      "url": "https://paragonaimag.substack.com/p/how-ai-image-generation-works",
-      "publishedAt": "2026-11-14T12:30:23.000Z",
-      "summary": "How AI Image Generation Works (Series 3, Episode 2). One fake AI picture of the Pentagon moved the American stock market by 0.3% in four minutes. In the second episode of our series “How…",
-      "source": "Substack",
-      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/b1VJCRzkslo"
     }
   ]
 }
