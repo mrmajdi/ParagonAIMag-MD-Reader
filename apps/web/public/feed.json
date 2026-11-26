@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-26T08:14:06.984Z",
+  "updatedAt": "2026-11-26T21:29:30.451Z",
   "items": [
+    {
+      "id": "redcircle-ca5f7f2f-4fb0-4915-b2c0-1355e24b7fc3",
+      "type": "podcast",
+      "title": "Why Automated Job Application Bots Fail",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/51c1204a-ddfb-46d9-bf12-8d181509762c",
+      "publishedAt": "2026-11-26T13:01:14.000Z",
+      "summary": "How to use AI to get a job in 2026? A programmer let a bot apply to 5,000 jobs and got the same 20 interviews as applying by hand to 200 — a 0.4% success rate. But the same data has a…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/26/12/6ecdd993-f191-41f8-9a18-4abca353f53e_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/51c1204a-ddfb-46d9-bf12-8d181509762c/stream.mp3",
+      "duration": "2516"
+    },
+    {
+      "id": "youtube-y_FHPoS4RM0",
+      "type": "video",
+      "title": "5,000 APPLICATIONS. 20 INTERVIEWS.",
+      "url": "https://www.youtube.com/shorts/y_FHPoS4RM0",
+      "publishedAt": "2026-11-26T12:19:00.000Z",
+      "summary": "A programmer let a bot apply to 5,000 jobs and got the same 20 interviews as applying by hand to 200 — a 0.4% success rate. AI as an editor gets you hired 8% more, with ~10% higher pay…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/y_FHPoS4RM0/hqdefault.jpg",
+      "videoId": "y_FHPoS4RM0"
+    },
+    {
+      "id": "youtube-J5-0lD4Hw5s",
+      "type": "video",
+      "title": "How to Use AI to Get a Job in 2026 — What Actually Works",
+      "url": "https://www.youtube.com/watch?v=J5-0lD4Hw5s",
+      "publishedAt": "2026-11-26T12:16:13.000Z",
+      "summary": "how to use AI to get a job in 2026? A programmer let a bot apply to 5,000 jobs and got the same 20 interviews as applying by hand to 200 — a 0.4% success rate. Twenty times the volume, the…",
+      "source": "YouTube",
+      "image": "https://i3.ytimg.com/vi/J5-0lD4Hw5s/hqdefault.jpg",
+      "videoId": "J5-0lD4Hw5s"
+    },
     {
       "id": "redcircle-72ad76a9-fcc9-4cc7-af23-3fbce7088857",
       "type": "podcast",
@@ -126,17 +160,6 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/QyStmo6Apk0"
     },
     {
-      "id": "youtube-A4AM81YkQQw",
-      "type": "video",
-      "title": "How AI Search Works — And Why Nobody Clicks Anymore",
-      "url": "https://www.youtube.com/shorts/A4AM81YkQQw",
-      "publishedAt": "2026-11-22T12:17:47.000Z",
-      "summary": "More than two in three Google searches now end with nobody clicking anything. AI search reads the web for you — but over 60% of its answers were wrong in the biggest independent test. Full…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/A4AM81YkQQw/hqdefault.jpg",
-      "videoId": "A4AM81YkQQw"
-    },
-    {
       "id": "substack-https://paragonaimag.substack.com/p/how-do-self-driving-cars-work-inside",
       "type": "article",
       "title": "How Do Self-Driving Cars Work? Inside the Robot Brain",
@@ -157,17 +180,6 @@
       "image": "https://media.redcircle.com/images/2026/11/21/12/ee104613-3b11-4691-8789-8b2d73b26d6f_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/4046051b-b6c3-48f2-9d53-cd726f04b22f/stream.mp3",
       "duration": "3322"
-    },
-    {
-      "id": "youtube-2W6ZQGFVV2w",
-      "type": "video",
-      "title": "A TAXI WITH NO DRIVER",
-      "url": "https://www.youtube.com/shorts/2W6ZQGFVV2w",
-      "publishedAt": "2026-11-21T12:17:31.000Z",
-      "summary": "A self-driving car starts braking in a tenth of a second. A human takes 1.5 seconds. That gap is 40 metres at highway speed. Full video on YouTube: https://youtu.be/Goi9kQknAI4 Listen to…",
-      "source": "YouTube",
-      "image": "https://i3.ytimg.com/vi/2W6ZQGFVV2w/hqdefault.jpg",
-      "videoId": "2W6ZQGFVV2w"
     },
     {
       "id": "redcircle-97417bf0-c135-427a-8040-50501eab861d",
@@ -212,18 +224,6 @@
       "summary": "How Google Translate Works: Inside the Machine That Invented Its Own Language By Paragon AI MAG — Series 4, Episode 2 of “How the AI Tools You Use Actually Work” — 19 November 2026 In…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sLuChvkK9MU"
-    },
-    {
-      "id": "redcircle-895c8e85-0b58-498c-8fa6-c34cceee0feb",
-      "type": "podcast",
-      "title": "How AI Music Generation Works — Paragon AI MAG",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/96432276-9597-421b-b3c2-75dd6d82948f",
-      "publishedAt": "2026-11-19T00:06:39.000Z",
-      "summary": "Paragon AI MAG — a daily AI magazine. Follow Paragon AI MAG so you never miss an episode. A band that does not exist reached 1.4 million monthly listeners on Spotify. In this episode we go…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/19/0/663e3b28-a08e-431d-a917-1abf32706658_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/96432276-9597-421b-b3c2-75dd6d82948f/stream.mp3",
-      "duration": "2533"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/how-ai-music-generation-works",
