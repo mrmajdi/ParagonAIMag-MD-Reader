@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-25T08:29:58.442Z",
+  "updatedAt": "2026-11-26T08:14:06.984Z",
   "items": [
+    {
+      "id": "redcircle-72ad76a9-fcc9-4cc7-af23-3fbce7088857",
+      "type": "podcast",
+      "title": "Which Jobs Are Safe from AI? What the Data Actually Says",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/24b12da1-8f30-47d1-b142-ae7f4803402e",
+      "publishedAt": "2026-11-25T13:45:50.000Z",
+      "summary": "Paragon AI MAG — Series 5, Episode 3: Which Jobs Are Safe from AI? What the Data Actually Says Follow Paragon AI MAG so you never miss an episode. Which jobs are safe from AI? A viral video…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/25/13/570aa424-bdaa-4e15-b17f-02d7fafa92b5_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/24b12da1-8f30-47d1-b142-ae7f4803402e/stream.mp3",
+      "duration": "3444"
+    },
+    {
+      "id": "youtube-QKevPFDP45I",
+      "type": "video",
+      "title": "ONLY 2 TYPES SAFE? DATA SAYS NO.",
+      "url": "https://www.youtube.com/shorts/QKevPFDP45I",
+      "publishedAt": "2026-11-25T12:17:56.000Z",
+      "summary": "A viral video claiming only two types of jobs are safe from AI has 1.2 million views. The data says no — safety is three ingredients: hands, trust and judgement. The #1 source of new jobs…",
+      "source": "YouTube",
+      "image": "https://i2.ytimg.com/vi/QKevPFDP45I/hqdefault.jpg",
+      "videoId": "QKevPFDP45I"
+    },
+    {
+      "id": "youtube-4MGTQFe_PmQ",
+      "type": "video",
+      "title": "Which Jobs Are Safe from AI? What the Data Actually Says",
+      "url": "https://www.youtube.com/watch?v=4MGTQFe_PmQ",
+      "publishedAt": "2026-11-25T12:16:45.000Z",
+      "summary": "which jobs are safe from AI? A viral video claiming only two types of jobs are safe from AI just hit 1.2 million views. But when you look at the actual labour statistics, robotics…",
+      "source": "YouTube",
+      "image": "https://i1.ytimg.com/vi/4MGTQFe_PmQ/hqdefault.jpg",
+      "videoId": "4MGTQFe_PmQ"
+    },
     {
       "id": "redcircle-5a59d346-1bb5-45a4-b99c-319ee07ee42b",
       "type": "podcast",
@@ -136,17 +170,6 @@
       "videoId": "2W6ZQGFVV2w"
     },
     {
-      "id": "youtube-Goi9kQknAI4",
-      "type": "video",
-      "title": "How Do Self-Driving Cars Work? Inside the Robot Brain",
-      "url": "https://www.youtube.com/watch?v=Goi9kQknAI4",
-      "publishedAt": "2026-11-21T12:15:37.000Z",
-      "summary": "How do self-driving cars work? There is already a taxi with no driver that does half a million paid rides every week — and its data shows it crashes into pedestrians 93% less often than…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/Goi9kQknAI4/hqdefault.jpg",
-      "videoId": "Goi9kQknAI4"
-    },
-    {
       "id": "redcircle-97417bf0-c135-427a-8040-50501eab861d",
       "type": "podcast",
       "title": "How Netflix and Spotify Know What You Want Next",
@@ -167,17 +190,6 @@
       "summary": "How Netflix and Spotify Know What You Want Next Paragon AI MAG — Series 4, Episode 3 — \"How the AI Tools You Use Actually Work\" It is a familiar ritual: you collapse onto the couch on a…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/jIzRd3k9JCs"
-    },
-    {
-      "id": "youtube-sbcfxaxTxs8",
-      "type": "video",
-      "title": "NETFLIX OFFERED $1 MILLION",
-      "url": "https://www.youtube.com/shorts/sbcfxaxTxs8",
-      "publishedAt": "2026-11-20T12:18:14.000Z",
-      "summary": "Netflix offered $1M to anyone who could guess your taste — and the winner was never used. Full video on YouTube: https://www.youtube.com/watch?v=jIzRd3k9JCs",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/sbcfxaxTxs8/hqdefault.jpg",
-      "videoId": "sbcfxaxTxs8"
     },
     {
       "id": "redcircle-3405b679-1bf6-4c55-91d6-5ced5cefe45f",
@@ -222,18 +234,6 @@
       "summary": "Thanks for reading! Subscribe for free to receive new posts and support my work. How AI Music Generation Works By Paragon AI MAG — Series 4, Episode 1. Every fact below is checked against…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/LrLgGAsU-dg"
-    },
-    {
-      "id": "redcircle-21886383-5b10-452d-89df-9cb5425e09b8",
-      "type": "podcast",
-      "title": "Why OpenAI Shut Down Sora (Series 3, Episode 5)",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/3e55adb5-f3e5-4a82-bfd2-0b956f70a658",
-      "publishedAt": "2026-11-17T13:37:25.000Z",
-      "summary": "Paragon AI MAG — Why OpenAI Shut Down Sora (Series 3, Episode 5). Follow Paragon AI MAG so you never miss an episode. One AI video demo paused an $800 million studio expansion — and two…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/17/13/e2577185-bd50-4229-a334-d5325130e746_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/3e55adb5-f3e5-4a82-bfd2-0b956f70a658/stream.mp3",
-      "duration": "2773"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/how-ai-video-generation-works",
