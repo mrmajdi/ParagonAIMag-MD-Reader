@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-11-27T08:27:03.892Z",
+  "updatedAt": "2026-11-27T21:15:55.392Z",
   "items": [
+    {
+      "id": "redcircle-73969bfa-b93f-4d12-8b6f-f9c7d0068219",
+      "type": "podcast",
+      "title": "How to Write a Resume with AI — The Rules That Actually Work",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/58ca79e2-7da3-438c-9236-672e27ff206c",
+      "publishedAt": "2026-11-27T13:06:08.000Z",
+      "summary": "How to write a resume with AI? 1 in 4 people who let AI write most of their resume lost a job over something on it (Novoresume 2026). But the same data has a hopeful side: AI used as an…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/27/13/bc719898-4972-4781-b8c6-f2e087c6ecac_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/58ca79e2-7da3-438c-9236-672e27ff206c/stream.mp3",
+      "duration": "3998"
+    },
+    {
+      "id": "youtube-o28r_oFLA1U",
+      "type": "video",
+      "title": "1 IN 4 LOST A JOB.",
+      "url": "https://www.youtube.com/shorts/o28r_oFLA1U",
+      "publishedAt": "2026-11-27T12:18:38.000Z",
+      "summary": "1 in 4 people who let AI write most of their resume lost a job over something on it (Novoresume 2026). AI is a great editor and a terrible liar. The 10-minute rebuild is in the full video…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/o28r_oFLA1U/hqdefault.jpg",
+      "videoId": "o28r_oFLA1U"
+    },
+    {
+      "id": "youtube-Cf10yPTG2Tg",
+      "type": "video",
+      "title": "How to Write a Resume with AI — The Rules That Actually Work",
+      "url": "https://www.youtube.com/watch?v=Cf10yPTG2Tg",
+      "publishedAt": "2026-11-27T12:16:45.000Z",
+      "summary": "how to write a resume with AI? 1 in 4 people who let AI write most of their resume lost a job over something on it — 74.8% of heavy AI users had an inaccuracy on their resume, against 37.3%…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/Cf10yPTG2Tg/hqdefault.jpg",
+      "videoId": "Cf10yPTG2Tg"
+    },
     {
       "id": "redcircle-ca5f7f2f-4fb0-4915-b2c0-1355e24b7fc3",
       "type": "podcast",
@@ -116,28 +150,6 @@
       "duration": "3700"
     },
     {
-      "id": "youtube-YkeB2KVgq-Q",
-      "type": "video",
-      "title": "10.6M VIEWS. $0 EARNED.",
-      "url": "https://www.youtube.com/shorts/YkeB2KVgq-Q",
-      "publishedAt": "2026-11-23T12:16:44.000Z",
-      "summary": "10.6 million views. $0 earned. Of 257 new faceless AI channels, the typical one made zero dollars a month — and none reached even half of the $30,000 the gurus promise. The real way to earn…",
-      "source": "YouTube",
-      "image": "https://i2.ytimg.com/vi/YkeB2KVgq-Q/hqdefault.jpg",
-      "videoId": "YkeB2KVgq-Q"
-    },
-    {
-      "id": "youtube-oYYdNMi105k",
-      "type": "video",
-      "title": "How to Make Money with AI — What Actually Works in 2026",
-      "url": "https://www.youtube.com/watch?v=oYYdNMi105k",
-      "publishedAt": "2026-11-23T12:15:18.000Z",
-      "summary": "how to make money with AI — what actually works in 2026? A video promising the \"laziest way to make money with AI\" has over 10.6 million views, yet the typical person who tried it made zero…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/oYYdNMi105k/hqdefault.jpg",
-      "videoId": "oYYdNMi105k"
-    },
-    {
       "id": "redcircle-7c7b36f0-34d0-414d-844a-e76f485b8eca",
       "type": "podcast",
       "title": "How AI Search Works — And Why Nobody Clicks Anymore",
@@ -202,18 +214,6 @@
       "summary": "How Netflix and Spotify Know What You Want Next Paragon AI MAG — Series 4, Episode 3 — \"How the AI Tools You Use Actually Work\" It is a familiar ritual: you collapse onto the couch on a…",
       "source": "Substack",
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/jIzRd3k9JCs"
-    },
-    {
-      "id": "redcircle-3405b679-1bf6-4c55-91d6-5ced5cefe45f",
-      "type": "podcast",
-      "title": "How Google Translate Works",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/6670a1d7-14d2-4d38-ad5c-6d66ef26fde2",
-      "publishedAt": "2026-11-19T13:03:30.000Z",
-      "summary": "Paragon AI MAG — one video and one podcast episode every day, every fact checked against sources. Follow Paragon AI MAG so you never miss an episode. How does Google Translate work? In…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/19/12/c53b1c7a-71a5-4b22-93c6-976e927748be_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/6670a1d7-14d2-4d38-ad5c-6d66ef26fde2/stream.mp3",
-      "duration": "2545"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/how-google-translate-works",
