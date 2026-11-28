@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-28T07:45:41.341Z",
+  "updatedAt": "2026-11-28T20:00:14.655Z",
   "items": [
+    {
+      "id": "redcircle-8258d8c5-a5eb-4bac-bb4b-24d5eea78d3b",
+      "type": "podcast",
+      "title": "How to Prepare for a Job Interview with AI — The 7-Day Plan",
+      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/6d3a8554-fad2-4661-842b-3cc7a3ca0544",
+      "publishedAt": "2026-11-28T13:04:28.000Z",
+      "summary": "How to prepare for a job interview with AI? The same job answer scored 2 out of 10 — then one number took it to 9 out of 10. In this episode of Paragon AI MAG (Series 6, Episode 1) the…",
+      "source": "RedCircle",
+      "image": "https://media.redcircle.com/images/2026/11/28/13/0efa2d9f-7ced-403b-9970-facb3cff54a6_podcast-cover.jpg",
+      "audio": "https://audio4.redcircle.com/episodes/6d3a8554-fad2-4661-842b-3cc7a3ca0544/stream.mp3",
+      "duration": "3374"
+    },
+    {
+      "id": "youtube-kmhnPRv_78o",
+      "type": "video",
+      "title": "How to Prepare for a Job Interview with AI — The 7-Day Plan",
+      "url": "https://www.youtube.com/shorts/kmhnPRv_78o",
+      "publishedAt": "2026-11-28T12:19:37.000Z",
+      "summary": "The same job answer scored 2 out of 10. Then one number took it to 9 out of 10. 63% of job seekers have already been interviewed by an AI. Watch the full video: https://youtu.be/gbOUi_xmzzE…",
+      "source": "YouTube",
+      "image": "https://i4.ytimg.com/vi/kmhnPRv_78o/hqdefault.jpg",
+      "videoId": "kmhnPRv_78o"
+    },
     {
       "id": "redcircle-73969bfa-b93f-4d12-8b6f-f9c7d0068219",
       "type": "podcast",
@@ -127,17 +150,6 @@
       "videoId": "G0L3PrnlQGM"
     },
     {
-      "id": "youtube-K8OS2ddAobs",
-      "type": "video",
-      "title": "Will AI Take Your Job? What the Data Actually Says",
-      "url": "https://www.youtube.com/watch?v=K8OS2ddAobs",
-      "publishedAt": "2026-11-24T12:16:24.000Z",
-      "summary": "will AI take my job? A video claiming only 5 jobs will survive by 2030 has 25 million views. But what does the actual data say? In this episode we check the numbers behind the fear. We look…",
-      "source": "YouTube",
-      "image": "https://i4.ytimg.com/vi/K8OS2ddAobs/hqdefault.jpg",
-      "videoId": "K8OS2ddAobs"
-    },
-    {
       "id": "redcircle-4e7702d4-a243-4536-be68-ced782c9003f",
       "type": "podcast",
       "title": "How to Make Money with AI — What Actually Works in 2026",
@@ -192,18 +204,6 @@
       "image": "https://media.redcircle.com/images/2026/11/21/12/ee104613-3b11-4691-8789-8b2d73b26d6f_podcast-cover.jpg",
       "audio": "https://audio4.redcircle.com/episodes/4046051b-b6c3-48f2-9d53-cd726f04b22f/stream.mp3",
       "duration": "3322"
-    },
-    {
-      "id": "redcircle-97417bf0-c135-427a-8040-50501eab861d",
-      "type": "podcast",
-      "title": "How Netflix and Spotify Know What You Want Next",
-      "url": "https://redcircle.com/shows/cbce814a-d451-4913-a015-fe05b4d0e059/episodes/e2f40830-b206-4546-a086-4d43b409a5f6",
-      "publishedAt": "2026-11-20T12:49:36.000Z",
-      "summary": "How do Netflix and Spotify know what you'll like next? The $1 million prize, the hidden taste map, the foundation model that reads your history like a language, Spotify's three engines —…",
-      "source": "RedCircle",
-      "image": "https://media.redcircle.com/images/2026/11/20/12/d9c47b0b-6eb5-41ba-b274-ae0c42814af2_podcast-cover.jpg",
-      "audio": "https://audio4.redcircle.com/episodes/e2f40830-b206-4546-a086-4d43b409a5f6/stream.mp3",
-      "duration": "2419"
     },
     {
       "id": "substack-https://paragonaimag.substack.com/p/how-netflix-and-spotify-know-what",
